@@ -1,16 +1,3 @@
-COVID-19 Vaccination in Canada
-==============================
-
-**Welcome!** This website provides several visualizations of COVID-19
-vaccination progress in Canada based on data collected mainly from
-[COVID Canada](https://covid19tracker.ca/vaccinationtracker.html) and
-[Our World in Data](https://ourworldindata.org/covid-vaccinations). The
-latest federal distribution schedule is [available
-here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-05-07 16:11:13 MDT.
-
-------------------------------------------------------------------------
-
 Today’s COVID vaccination update:
 
 -   Total shots given: 15,277,938
@@ -41,6 +28,19 @@ the past week and 270,466/day the week prior.
 -   At current avg pace, we reach 75% by Oct 11
 
 ![](Plots/pace_national.png)
+
+------------------------------------------------------------------------
+
+COVID-19 Vaccination in Canada
+==============================
+
+**Welcome!** This website provides several visualizations of COVID-19
+vaccination progress in Canada based on data collected mainly from
+[COVID Canada](https://covid19tracker.ca/vaccinationtracker.html) and
+[Our World in Data](https://ourworldindata.org/covid-vaccinations). The
+latest federal distribution schedule is [available
+here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
+The information below was last updated at 2021-05-07 16:11:13 MDT.
 
 Explore other visualizations by clicking on the appropriate menu item at
 the top of this page. Enjoy!
