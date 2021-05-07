@@ -1,7 +1,3 @@
----
-title: Testing
----
-
 Today’s COVID vaccination update:
 
 -   Total shots given: 15,277,938
