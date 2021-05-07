@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COVID Vaccines in Canada
-subtitle: Visualizations by Trevor Tombe
+subtitle: Note: Still Under Construction
 ---
 **Welcome!** This website provides several visualizations of COVID-19
 vaccination progress in Canada based on data collected mainly from
