@@ -1,0 +1,28 @@
+---
+title: "README"
+author: "Trevor Tombe"
+date: "03/04/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Provides several visualizations of COVID-19 vaccination progress in Canada based on data collected mainly from [COVID Canada](https://covid19tracker.ca/vaccinationtracker.html) and [Our World in Data](https://ourworldindata.org/covid-vaccinations). The latest federal distribution schedule is [available here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html). The information below was last updated at `r accessed` MDT.
+
+---
+
+`r first_tweet`
+
+![](Plots/plot_main.png)
+
+`r second_tweet`
+
+![](Plots/plot_total.png)
+
+`r third_tweet`
+
+![](Plots/pace_national.png)
+
+Explore other visualizations by clicking on the appropriate menu item at the top of this page. Enjoy!
