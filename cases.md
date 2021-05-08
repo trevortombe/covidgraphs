@@ -2,8 +2,7 @@
 layout: page
 title: New Daily COVID Cases
 subtitle: Current New Daily Confirmed Cases of COVID-19
-full-width: TRUE
+full-width: true
 ---
 
-![](Plots/COVID_map.png)
-![](Plots/COVID_deaths_map.png)
+![](Plots/COVID_map.png) ![](Plots/COVID_deaths_map.png)
