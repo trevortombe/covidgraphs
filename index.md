@@ -10,8 +10,7 @@ vaccination progress in Canada based on data collected mainly from
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
 The information below was last updated at 2021-05-08 12:39:21 MDT. For
-regular progress bar updates, follow
-\[@CDNVaccineCount\](<a href="https://twitter.com/CDNVaccineCount" class="uri">https://twitter.com/CDNVaccineCount</a>)
+regular progress bar updates, follow <a href="https://twitter.com/CDNVaccineCount" class="uri">@CDNVaccineCount</a>
 on twitter.
 
 ![](Plots/plot_main.png)
