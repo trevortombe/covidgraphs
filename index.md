@@ -2,7 +2,7 @@
 layout: page
 title: COVID Vaccines in Canada
 subtitle: Page Still Under Construction
-cover-img: "Plots/covid19.jpg"
+cover-img: ["Plots/main.jpg" : "Unsplash: @john_artifexfilms"]
 ---
 **Welcome!** This website provides several visualizations of COVID-19
 vaccination progress in Canada based on data collected mainly from
