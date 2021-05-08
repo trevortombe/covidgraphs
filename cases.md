@@ -2,6 +2,7 @@
 layout: page
 title: New Daily COVID Cases
 subtitle: Current New Daily Confirmed Cases of COVID-19
+classes: wide
 ---
 
 ![](Plots/COVID_map.png)
