@@ -1,6 +1,6 @@
 ---
 layout: page
-title: COVID Vaccines in Canada
+title: COVID-19 Vaccination Progress in Canada
 cover-img: ["Plots/sunrise.jpg" : "Unsplash: @psychedelaholic"]
 ---
 **Welcome!** This website provides several visualizations of COVID-19
