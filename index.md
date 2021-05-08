@@ -1,7 +1,7 @@
 ---
 layout: page
-title: COVID-19 Vaccination Progress in Canada
-cover-img: ["Plots/sunrise.jpg" : "Unsplash: @psychedelaholic"]
+title: Canada's COVID Vaccine Progress
+cover-img: ['Plots/sunrise.jpg' : 'Unsplash: @psychedelaholic']
 ---
 **Welcome!** This website provides several visualizations of COVID-19
 vaccination progress in Canada based on data collected mainly from
@@ -9,7 +9,10 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-05-08 11:51:06 MDT.
+The information below was last updated at 2021-05-08 12:39:21 MDT. For
+regular progress bar updates, follow
+\[@CDNVaccineCount\](<a href="https://twitter.com/CDNVaccineCount" class="uri">https://twitter.com/CDNVaccineCount</a>)
+on twitter.
 
 ![](Plots/plot_main.png)
 
