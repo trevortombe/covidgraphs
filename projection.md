@@ -4,13 +4,13 @@ title: Projecting Forward
 subtitle: Where Current Trends Are Pointed
 ---
 
-When might Canada achieve herd immunity? There is no specific vaccinate rate threshold, but 75 per cent is a common metric. This illustrates when Canada may achieve that for 75% of its entire population with at least one dose and when 75% of its adult population with at least one dose.
+When might Canada achieve herd immunity? There is no specific vaccinate rate threshold, but 75 per cent is a common metric. This illustrates when Canada may achieve that for its entire population with at least one dose and for its adult population (age 16+).
 
 ![](Plots/pace_national_projection2.png)
 
 ---
 
-But recent [federal government modeling](https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20210423-en.pdf) suggests health rules may be safely eased once 75% of adults have at least one dose and 20% have two. This requires approximately 30 million doses. The following projection illustrates when that might be achieved.
+But recent [federal government modeling](https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20210423-en.pdf) suggests health rules may be safely eased once 75 per cent of adults have at least one dose and 20 per cent have two. This requires approximately 30 million doses. The following projection illustrates when that might be achieved.
 
 ![](Plots/pace_national_projection_7520.png)
 
