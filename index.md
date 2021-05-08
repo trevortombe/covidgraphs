@@ -1,7 +1,6 @@
 ---
 layout: page
 title: COVID Vaccines in Canada
-subtitle: Page Still Under Construction
 cover-img: ["Plots/sunrise.jpg" : "Unsplash: @psychedelaholic"]
 ---
 **Welcome!** This website provides several visualizations of COVID-19
