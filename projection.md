@@ -6,7 +6,7 @@ subtitle: Where Current Trends Are Pointed
 
 When might Canada achieve herd immunity? There is no specific vaccinate rate threshold, but 75 per cent is a common metric. This illustrates when Canada may achieve that for its entire population with at least one dose and for its adult population (age 16+).
 
-![](Plots/pace_national_projection2.png)
+![](Plots/pace_national_projection.png)
 
 ---
 
