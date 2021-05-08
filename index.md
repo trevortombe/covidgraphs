@@ -9,18 +9,20 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-05-07 17:46:21 MDT.
+The information below was last updated at 2021-05-07 18:40:20 MDT.
 
 Today’s COVID vaccination update:
 
 -   Total shots given: 15,325,183
 -   Shots per 100 people: 40.3
--   Shots reported today: 400,489 (new record!)
+-   Shots reported today \*: 400,489 (new record!)
 -   Inventory: 10.4 days (at avg pace)
 -   Adults w/ 1+ Shots: 44.7%
 
 Source:
 <a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>
+
+-   Note: Doesn’t include NL.
 
 ![](Plots/plot_main.png)
 

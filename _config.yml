@@ -13,7 +13,7 @@ navbar-links:
   Needlessly Fancy: "needless"
   COVID Cases: "cases"
   By Age: "ageplots"
-  Projection: "projection"
+  Projections: "projection"
   Comparisons:
     - Provinces: "provs"
     - Countries: "international"
