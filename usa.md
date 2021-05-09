@@ -1,7 +1,7 @@
 ---
 layout: page
-title: International
-subtitle: Cross-Country Comparison
+title: United States
+subtitle: A Canada/US Comparison
 full-width: true
 ---
 
