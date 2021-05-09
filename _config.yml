@@ -13,6 +13,7 @@ navbar-links:
   Projections: "projection"
   Comparisons:
     - Provinces: "provs"
+    - USA: "usa"
     - Countries: "international"
   By Age: "ageplots"
   Needlessly Fancy: "needless"
