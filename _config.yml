@@ -14,7 +14,8 @@ navbar-links:
   Comparisons:
     - Provinces: "provs"
     - USA: "usa"
-    - Countries: "international"
+    - OECD: "oecd"
+    - World: "international"
   By Age: "ageplots"
   Needlessly Fancy: "needless"
   COVID Cases: "cases"
