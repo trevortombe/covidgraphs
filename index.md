@@ -24,7 +24,7 @@ COVID vaccination update for May 9, 2021:
 -   Doses distributed: 18,166,494
 -   Share of distributed doses administered: 87.6%
 -   Inventory: 7.5 days (at avg pace)
--   Adults w/ 1+ Shots: 46.5%- People fully vaccinated: 3,124,970
+-   Adults w/ 1+ Shots: 46.5%
 -   Days to 75/20 target: 47
 
 Source:
