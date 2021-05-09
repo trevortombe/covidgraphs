@@ -11,12 +11,12 @@ remote_theme: daattali/beautiful-jekyll
 
 navbar-links:
   Projections: "projection"
-  Test: "Test.html"
   Comparisons:
     - Provinces: "provs"
     - USA: "usa"
     - OECD: "oecd"
     - World: "international"
+    - Projections: "Test.html"
   By Age: "ageplots"
   Needlessly Fancy: "needless"
   COVID Cases: "cases"
