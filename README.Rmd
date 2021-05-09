@@ -14,7 +14,16 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **Welcome!** This website provides several visualizations of COVID-19 vaccination progress in Canada based on data collected mainly from [COVID Canada](https://covid19tracker.ca/vaccinationtracker.html) and [Our World in Data](https://ourworldindata.org/covid-vaccinations). The latest federal distribution schedule is [available here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html). The information below was last updated at `r accessed` MDT.
 
-`r first_tweet`
+`r paste0(paste0("COVID vaccination update for ",gsub(" 0"," ",format(accessed,"%B %d, %Y")),":\n\n"),
+                    "- Total shots given: ",total_doses,"\n",
+                    "- Shots per 100 people: ",number(pop_share*100,.1),"\n",
+                    ifelse(wday(today)==2,paste0("- Shots reported today *: ",new_doses,"\n"),
+                           paste0("- Shots reported today: ",new_doses,"\n")),
+                    "- Inventory: ",inventory," days (at avg pace)\n",
+                    "- Adults w/ 1+ Shots: ",adults_vaccinated,
+                    "\n\nSource: https://covid19tracker.ca/vaccinationtracker.html",
+                    ifelse(wday(today)==7 | wday(today)==1,"\n\nNote: Weekend updates are incomplete",""),
+                    ifelse(wday(today)==2,"\n\nNote: Includes some weekend doses",""))`
 
 ![](Plots/plot_main.png)
 

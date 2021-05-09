@@ -3,11 +3,20 @@
 
 ![](Plots/plot_main.png)
 
-`r first_tweet`
-
----
-
-`r second_tweet`
+`r paste0(paste0("COVID vaccination update for ",gsub(" 0"," ",format(accessed,"%B %d, %Y")),":\n\n"),
+                    "- Total shots given: ",total_doses,"\n",
+                    "- Shots per 100 people: ",number(pop_share*100,.1),"\n",
+                    ifelse(wday(today)==2,paste0("- Shots reported today *: ",new_doses,"\n"),
+                           paste0("- Shots reported today: ",new_doses,"\n")),
+                    "- Doses distributed: ",comma(latest$dist),"\n",
+                    "- Share of distributed doses administered: ",percent(latest$doses/latest$dist,.1),"\n",
+                    "- Inventory: ",inventory," days (at avg pace)\n",
+                    "- Adults w/ 1+ Shots: ",adults_vaccinated,
+                    "- People fully vaccinated: ",new_doses_dist,"\n",
+                    "- Days to 75/20 target: ",round(tamdate$totam),"\n",
+                    "\n\nSource: https://covid19tracker.ca/vaccinationtracker.html",
+                    ifelse(wday(today)==7 | wday(today)==1,"\n\nNote: Weekend updates are incomplete",""),
+                    ifelse(wday(today)==2,"\n\nNote: Includes some weekend doses",""))`
 
 ![](Plots/plot_total.png)
 
