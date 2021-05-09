@@ -16,7 +16,7 @@ navbar-links:
     - USA: "usa"
     - OECD: "oecd"
     - World: "international"
-    - Projections: "Test.html"
+    - Projections: "testing"
   By Age: "ageplots"
   Needlessly Fancy: "needless"
   COVID Cases: "cases"
