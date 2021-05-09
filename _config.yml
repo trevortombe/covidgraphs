@@ -11,6 +11,7 @@ remote_theme: daattali/beautiful-jekyll
 
 navbar-links:
   Projections: "projection"
+  Test: "Test.html"
   Comparisons:
     - Provinces: "provs"
     - USA: "usa"
