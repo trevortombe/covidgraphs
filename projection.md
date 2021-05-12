@@ -28,6 +28,12 @@ Can the pace of vaccine administration be accelerated from here? Here is prior v
 
 ---
 
+Provinces are also fairly consistent with one another in terms of where their trajectories are pointed. Here's the latest:
+
+![](Plots/pace_prov_projection_all.png)
+
+---
+
 Finally, Canada's current pace is faster than other jurisdictions. Here's a look at how far behind Canada is to the USA and the UK, and when our vaccination rates might match theirs.
 
 ![](Plots/pace_cdn_usa_projection.png)
