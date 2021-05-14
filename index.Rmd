@@ -9,7 +9,7 @@
                     ifelse(wday(today)==2,paste0("- Shots reported today *: ",new_doses,"\n"),
                            paste0("- Shots reported today: ",new_doses,"\n")),
                     "- Doses distributed: ",comma(latest$dist),"\n",
-                    "- Share of distributed doses administered: ",percent(latest$doses/latest$dist,.1),"\n",
+                    "- Share of distributed doses administered: ",share_dist_used,"\n",
                     "- Inventory: ",inventory," days (at avg pace)\n",
                     "- Age 12+ w/ 1+ Shots: ",age12_vaccinated,"\n",
                     "- People fully vaccinated: ",comma(latest$full),"\n",
