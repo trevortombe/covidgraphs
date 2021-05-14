@@ -9,24 +9,24 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-05-13 17:16:40 MDT. For
+The information below was last updated at 2021-05-14 16:38:21 MDT. For
 regular progress bar updates, follow
 <a href="https://twitter.com/CDNVaccineCount" class="uri">@CDNVaccineCount</a>
 on twitter.
 
 ![](Plots/plot_main.png)
 
-COVID vaccination update for May 13, 2021:
+COVID vaccination update for May 14, 2021:
 
--   Total shots given: 17,297,879
--   Shots per 100 people: 45.5
--   Shots reported today: 393,170
--   Doses distributed: 20,376,264
--   Share of distributed doses administered: 84.9%
--   Inventory: 9.1 days (at avg pace)
--   Adults w/ 1+ Shots: 50.6%
--   People fully vaccinated: 1,336,187
--   Days to 75/20 target: 37
+-   Total shots given: 17,734,322
+-   Shots per 100 people: 46.7
+-   Shots reported today: 436,443 (new record!)
+-   Doses distributed: 20,384,064
+-   Share of distributed doses administered: 87.0%
+-   Inventory: 7.7 days (at avg pace)
+-   Age 12+ w/ 1+ Shots:
+-   People fully vaccinated: 1,370,379
+-   Days to 75/20 target: 40
 
 Source:
 <a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>
@@ -35,11 +35,11 @@ Source:
 
 Canada’s pace of vaccination:
 
-Today’s 393,170 shots given compares to an average of 339,026/day over
-the past week and 256,118/day the week prior.
+Today’s 436,443 shots given compares to an average of 344,163/day over
+the past week and 272,141/day the week prior.
 
--   Pace req’d for 2 doses to 75% of Canadians by Sept 30: 283,672
--   At current avg pace, we reach 75% by Sep 07
+-   Pace req’d for 2 doses to 75% of Canadians by Sept 30: 282,573
+-   At current avg pace, we reach 75% by Sep 05
 
 ![](Plots/pace_national.png)
 
