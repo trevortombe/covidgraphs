@@ -21,11 +21,137 @@ COVID vaccination update for May 14, 2021:
 -   Total shots given: 17,734,322
 -   Shots per 100 people: 46.7
 -   Shots reported today: 436,443 (new record!)
--   Doses distributed: 20,384,064
--   Share of distributed doses administered: 87.0%
+-   Doses distributed: 2,355,255
+-   Share of distributed doses administered:
 -   Inventory: 7.7 days (at avg pace)
--   Age 12+ w/ 1+ Shots:
--   People fully vaccinated: 1,370,379
+-   Age 12+ w/ 1+ Shots: 49.3%
+-   People fully vaccinated:
+-   Days to 75/20 target: 40
+
+Source:
+<a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>,
+COVID vaccination update for May 14, 2021:
+
+-   Total shots given: 17,734,322
+-   Shots per 100 people: 46.7
+-   Shots reported today: 436,443 (new record!)
+-   Doses distributed: 2,740,590
+-   Share of distributed doses administered:
+-   Inventory: 7.7 days (at avg pace)
+-   Age 12+ w/ 1+ Shots: 49.3%
+-   People fully vaccinated:
+-   Days to 75/20 target: 40
+
+Source:
+<a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>,
+COVID vaccination update for May 14, 2021:
+
+-   Total shots given: 17,734,322
+-   Shots per 100 people: 46.7
+-   Shots reported today: 436,443 (new record!)
+-   Doses distributed: 767,670
+-   Share of distributed doses administered:
+-   Inventory: 7.7 days (at avg pace)
+-   Age 12+ w/ 1+ Shots: 49.3%
+-   People fully vaccinated:
+-   Days to 75/20 target: 40
+
+Source:
+<a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>,
+COVID vaccination update for May 14, 2021:
+
+-   Total shots given: 17,734,322
+-   Shots per 100 people: 46.7
+-   Shots reported today: 436,443 (new record!)
+-   Doses distributed: 415,935
+-   Share of distributed doses administered:
+-   Inventory: 7.7 days (at avg pace)
+-   Age 12+ w/ 1+ Shots: 49.3%
+-   People fully vaccinated:
+-   Days to 75/20 target: 40
+
+Source:
+<a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>,
+COVID vaccination update for May 14, 2021:
+
+-   Total shots given: 17,734,322
+-   Shots per 100 people: 46.7
+-   Shots reported today: 436,443 (new record!)
+-   Doses distributed: 279,010
+-   Share of distributed doses administered:
+-   Inventory: 7.7 days (at avg pace)
+-   Age 12+ w/ 1+ Shots: 49.3%
+-   People fully vaccinated:
+-   Days to 75/20 target: 40
+
+Source:
+<a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>,
+COVID vaccination update for May 14, 2021:
+
+-   Total shots given: 17,734,322
+-   Shots per 100 people: 46.7
+-   Shots reported today: 436,443 (new record!)
+-   Doses distributed: 519,550
+-   Share of distributed doses administered:
+-   Inventory: 7.7 days (at avg pace)
+-   Age 12+ w/ 1+ Shots: 49.3%
+-   People fully vaccinated:
+-   Days to 75/20 target: 40
+
+Source:
+<a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>,
+COVID vaccination update for May 14, 2021:
+
+-   Total shots given: 17,734,322
+-   Shots per 100 people: 46.7
+-   Shots reported today: 436,443 (new record!)
+-   Doses distributed: 7,843,825
+-   Share of distributed doses administered:
+-   Inventory: 7.7 days (at avg pace)
+-   Age 12+ w/ 1+ Shots: 49.3%
+-   People fully vaccinated:
+-   Days to 75/20 target: 40
+
+Source:
+<a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>,
+COVID vaccination update for May 14, 2021:
+
+-   Total shots given: 17,734,322
+-   Shots per 100 people: 46.7
+-   Shots reported today: 436,443 (new record!)
+-   Doses distributed: 84,915
+-   Share of distributed doses administered:
+-   Inventory: 7.7 days (at avg pace)
+-   Age 12+ w/ 1+ Shots: 49.3%
+-   People fully vaccinated:
+-   Days to 75/20 target: 40
+
+Source:
+<a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>,
+COVID vaccination update for May 14, 2021:
+
+-   Total shots given: 17,734,322
+-   Shots per 100 people: 46.7
+-   Shots reported today: 436,443 (new record!)
+-   Doses distributed: 4,578,079
+-   Share of distributed doses administered:
+-   Inventory: 7.7 days (at avg pace)
+-   Age 12+ w/ 1+ Shots: 49.3%
+-   People fully vaccinated:
+-   Days to 75/20 target: 40
+
+Source:
+<a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>,
+COVID vaccination update for May 14, 2021:
+
+-   Total shots given: 17,734,322
+-   Shots per 100 people: 46.7
+-   Shots reported today: 436,443 (new record!)
+-   Doses distributed: 637,115
+-   Share of distributed doses administered:
+-   Inventory: 7.7 days (at avg pace)
+-   Age 12+ w/ 1+ Shots: 49.3%
+-   People fully vaccinated:
 -   Days to 75/20 target: 40
 
 Source:
