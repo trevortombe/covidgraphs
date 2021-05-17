@@ -9,39 +9,40 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-05-16 17:47:56 MDT. For
+The information below was last updated at 2021-05-17 16:58:45 MDT. For
 regular progress bar updates, follow
 <a href="https://twitter.com/CDNVaccineCount" class="uri">@CDNVaccineCount</a>
 on twitter.
 
 ![](Plots/plot_main.png)
 
-COVID vaccination update for May 16, 2021:
+COVID vaccination update for May 17, 2021:
 
--   Total shots given: 18,415,880
--   Shots per 100 people: 48.5
--   Shots reported today: 317,066
+-   Shots reported today \*: 388,514
+-   Total shots given: 18,804,394
+-   Age 12+ w/ 1+ Shots: 52.4%
+-   Age 18+ w/ 1+ Shots: 57.3% (est)
+-   Shots per 100 people: 49.5
+-   People fully vaccinated: 1,424,182
 -   Doses distributed: 20,383,964
--   Share of distributed doses administered: 90.3%
--   Inventory: 5.5 days (at avg pace)
--   Age 12+ w/ 1+ Shots: 51.2%
--   People fully vaccinated: 1,410,963
--   Days to 75/20 target: 37
+-   Share of distributed doses administered: 92.3%
+-   Inventory: 4.3 days (at avg pace)
+-   Days to 75/20 target: 35
 
 Source:
 <a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>
 
-Note: Weekend updates are incomplete
+Note: Includes some weekend doses
 
 ![](Plots/plot_total.png)
 
 Canada’s pace of vaccination:
 
-Today’s 317,066 shots given compares to an average of 356,904/day over
-the past week and 298,868/day the week prior.
+Today’s 388,514 shots given compares to an average of 363,748/day over
+the past week and 315,238/day the week prior.
 
--   Pace req’d for 2 doses to 75% of Canadians by Sept 30: 281,724
--   At current avg pace, we reach 75% by Sep 01
+-   Pace req’d for 2 doses to 75% of Canadians by Sept 30: 280,938
+-   At current avg pace, we reach 75% by Aug 30
 
 ![](Plots/pace_national.png)
 
