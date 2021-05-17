@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = TRUE)
                     ifelse(wday(today)==2,paste0("- Shots reported today *: ",new_doses,"\n"),
                            paste0("- Shots reported today: ",new_doses,"\n")),
                     "- Inventory: ",inventory," days (at avg pace)\n",
-                    "- Adults w/ 1+ Shots: ",adults_vaccinated,
+                    "- Adults w/ 1+ Shots: ",adult_share_experimental,
                     "\n\nSource: https://covid19tracker.ca/vaccinationtracker.html",
                     ifelse(wday(today)==7 | wday(today)==1,"\n\nNote: Weekend updates are incomplete",""),
                     ifelse(wday(today)==2,"\n\nNote: Includes some weekend doses",""))`
