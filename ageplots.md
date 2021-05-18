@@ -10,7 +10,7 @@ Vaccination rates by detailed age and sex are available through the federal gove
 
 ---
 
-The actual data follows, though not it features a long lag.
+The actual data follows, though it features a long lag.
 
 ![](Plots/demo_plot_bar.png)
 
