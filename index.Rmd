@@ -1,7 +1,7 @@
 
-**Welcome!** This website provides several visualizations of COVID-19 vaccination progress in Canada based on data collected mainly from [COVID Canada](https://covid19tracker.ca/vaccinationtracker.html) and [Our World in Data](https://ourworldindata.org/covid-vaccinations). The latest federal distribution schedule is [available here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html). The information below was last updated at `r accessed` MDT. For regular progress bar updates, follow <a href="https://twitter.com/CDNVaccineCount" class="uri">@CDNVaccineCount</a> on twitter.
-
 ![](Plots/plot_main.png)
+
+**Welcome!** This website provides several visualizations of COVID-19 vaccination progress in Canada based on data collected mainly from [COVID Canada](https://covid19tracker.ca/vaccinationtracker.html) and [Our World in Data](https://ourworldindata.org/covid-vaccinations). The latest federal distribution schedule is [available here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html). The information below was last updated at `r accessed` MDT. For regular progress bar updates, follow <a href="https://twitter.com/CDNVaccineCount" class="uri">@CDNVaccineCount</a> on twitter.
 
 `r paste0(paste0("COVID vaccination update for ",gsub(" 0"," ",format(accessed,"%B %d, %Y")),":\n\n"),
                     ifelse(wday(today)==2,paste0("- Shots reported today *: ",new_doses,"\n"),
@@ -18,6 +18,9 @@
                     "\n\nSource: https://covid19tracker.ca/vaccinationtracker.html",
                     ifelse(wday(today)==7 | wday(today)==1,"\n\nNote: Weekend updates are incomplete",""),
                     ifelse(wday(today)==2,"\n\nNote: Includes some weekend doses",""))`
+
+<iframe title="COVID Vaccination Progress in Canada" aria-label="table" id="datawrapper-chart-qRyRK" src="https://datawrapper.dwcdn.net/qRyRK/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="601"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
 
 ![](Plots/plot_total.png)
 
