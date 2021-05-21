@@ -6,6 +6,8 @@ subtitle: Because Why Not?
 
 ![](Plots/MapSquares2.png)
 
+![](Plots/plot_calendar.png)
+
 ![](Plots/AnimatedProvs.gif)
 
 ![](Plots/plot_balls.png)
