@@ -51,6 +51,10 @@ the past week and 356,904/day the week prior.
 
 ![](Plots/pace_national.png)
 
+And a measure of effective coverage:
+
+![](Plots/plot_effective.png)
+
 ------------------------------------------------------------------------
 
 Explore other visualizations by clicking on the appropriate menu item at

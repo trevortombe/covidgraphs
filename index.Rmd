@@ -28,6 +28,10 @@
 
 ![](Plots/pace_national.png)
 
+And a measure of effective coverage:
+
+![](Plots/plot_effective.png)
+
 ---
 
 Explore other visualizations by clicking on the appropriate menu item at the top of this page. Enjoy!
