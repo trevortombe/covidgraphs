@@ -21,7 +21,7 @@ The actual data follows, though it features a long lag.
 
 ---
 
-The following was updated on May 18:
+The following is updated as of the date indicated in the legend:
 
 <iframe title="Proportion of Albertans with a COVID Vaccine Dose" aria-label="Stacked Bars" id="datawrapper-chart-inMOI" src="https://datawrapper.dwcdn.net/inMOI/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="720"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>

@@ -11,23 +11,23 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-05-24 15:49:26 MDT. For
+The information below was last updated at 2021-05-24 19:48:31 MDT. For
 regular progress bar updates, follow
 <a href="https://twitter.com/CDNVaccineCount" class="uri">@CDNVaccineCount</a>
 on twitter.
 
 COVID vaccination update for May 24, 2021:
 
--   Shots reported today \*: 112,449
--   Total shots given: 21,139,055
--   Age 12+ w/ 1+ Shots: 58.7%
--   Age 18+ w/ 1+ Shots: 63.9% (est)
--   Shots per 100 people: 55.6
--   People fully vaccinated: 1,661,431
+-   Shots reported today \*: 255,830
+-   Total shots given: 21,282,436
+-   Age 12+ w/ 1+ Shots: 59.1%
+-   Age 18+ w/ 1+ Shots: 64.3% (est)
+-   Shots per 100 people: 56.0
+-   People fully vaccinated: 1,666,176
 -   Doses distributed: 23,939,504
--   Share of distributed doses administered: 88.3%
--   Inventory: 8.4 days (at avg pace)
--   Days to 75/20 target: 31
+-   Share of distributed doses administered: 88.9%
+-   Inventory: 7.5 days (at avg pace)
+-   Days to 75/20 target: 29
 
 Source:
 <a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>
@@ -43,11 +43,11 @@ Note: Includes some weekend doses
 
 Canada’s pace of vaccination:
 
-Today’s 112,449 shots given compares to an average of 333,307/day over
+Today’s 255,830 shots given compares to an average of 353,790/day over
 the past week and 363,964/day the week prior.
 
--   Pace req’d for 2 doses to 75% of Canadians by Sept 30: 278,085
--   At current avg pace, we reach 75% by Sep 08
+-   Pace req’d for 2 doses to 75% of Canadians by Sept 30: 276,973
+-   At current avg pace, we reach 75% by Sep 01
 
 ![](Plots/pace_national.png)
 
