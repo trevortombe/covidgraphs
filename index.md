@@ -11,7 +11,7 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-05-26 17:22:56 MDT. For
+The information below was last updated at 2021-05-26 17:46:32 MDT. For
 regular progress bar updates, follow
 <a href="https://twitter.com/CDNVaccineCount" class="uri">@CDNVaccineCount</a>
 on twitter.
@@ -55,10 +55,8 @@ this provides is lower. One dose is less effective than two, plus there
 are lags in the vaccine’s effect along with numerous uncertainties
 (especially where the variants are concerned). Based on a two to three
 week lag, a first-dose efficacy of between 40 to 80 percent, and a
-second dose efficacy of 95 percent, our current effective coverage is
-between
-`paste0(round(100*filter(plotdata_effective,date==max(date))$low_est),                         " to ",round(filter(plotdata_effective,date==max(date))$high_est))`
-percent.
+second dose efficacy of 95 percent, our current coverage of effective
+protection is between 16 to 33 percent.
 
 ![](Plots/plot_effective.png)
 
