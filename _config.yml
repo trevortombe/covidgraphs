@@ -35,6 +35,8 @@ round-avatar: true
 # then specify the following parameter
 #title-img: /path/to/image
 
+# Fill in your Google Analytics ID to track your website using Google Analytics
+google_analytics: "273698840"
 
 # --- Footer social media links --- #
 
