@@ -11,21 +11,21 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-05-25 17:15:21 MDT. For
+The information below was last updated at 2021-05-26 17:22:56 MDT. For
 regular progress bar updates, follow
 <a href="https://twitter.com/CDNVaccineCount" class="uri">@CDNVaccineCount</a>
 on twitter.
 
-COVID vaccination update for May 25, 2021:
+COVID vaccination update for May 26, 2021:
 
--   Shots reported today: 256,179
--   Total shots given: 21,637,723
--   Age 12+ w/ 1+ Shots: 60.1%
--   Age 18+ w/ 1+ Shots: 65.3% (est)
--   Shots per 100 people: 56.9
--   People fully vaccinated: 1,695,594
--   Doses distributed: 25,396,102
--   Share of distributed doses administered: 85.2%
+-   Shots reported today: 301,323
+-   Total shots given: 21,939,046
+-   Age 12+ w/ 1+ Shots: 60.8%
+-   Age 18+ w/ 1+ Shots: 66.0% (est)
+-   Shots per 100 people: 57.7
+-   People fully vaccinated: 1,743,718
+-   Doses distributed: 25,617,132
+-   Share of distributed doses administered: 85.6%
 -   Inventory: 10.3 days (at avg pace)
 -   Days to 75/20 target: 27
 
@@ -41,19 +41,30 @@ Source:
 
 Canada’s pace of vaccination:
 
-Today’s 256,179 shots given compares to an average of 364,132/day over
-the past week and 361,552/day the week prior.
+Today’s 301,323 shots given compares to an average of 356,350/day over
+the past week and 362,841/day the week prior.
 
--   Pace req’d for 2 doses to 75% of Canadians by Sept 30: 276,362
--   At current avg pace, we reach 75% by Aug 30
+-   Pace req’d for 2 doses to 75% of Canadians by Sept 30: 276,165
+-   At current avg pace, we reach 75% by Sep 01
 
 ![](Plots/pace_national.png)
 
-And finally, dose counts and the share of a population with a shot is informative and important. But the population-level effective protection this provides is lower. One dose is less effective than two, plus there are lags in the vaccine's effect along with numerous uncertainties (especially where the variants are concerned). Based on a two to three week lag, a first-dose efficacy of between 40 to 80 percent, and a second dose efficacy of 95 percent, our current effective coverage is between 16-33%.
+And finally, dose counts and the share of a population with a shot is
+informative and important. But the population-level effective protection
+this provides is lower. One dose is less effective than two, plus there
+are lags in the vaccine’s effect along with numerous uncertainties
+(especially where the variants are concerned). Based on a two to three
+week lag, a first-dose efficacy of between 40 to 80 percent, and a
+second dose efficacy of 95 percent, our current effective coverage is
+between
+`paste0(round(100*filter(plotdata_effective,date==max(date))$low_est),                         " to ",round(filter(plotdata_effective,date==max(date))$high_est))`
+percent.
 
 ![](Plots/plot_effective.png)
 
-For a useful summary of the research literature, see: https://www.publichealthontario.ca/-/media/documents/ncov/covid-wwksf/2021/04/wwksf-vaccine-effectiveness.pdf?la=en
+For a useful summary of the research literature, see [this report from
+Public Health
+Ontario](https://www.publichealthontario.ca/-/media/documents/ncov/covid-wwksf/2021/04/wwksf-vaccine-effectiveness.pdf?la=en).
 
 ------------------------------------------------------------------------
 

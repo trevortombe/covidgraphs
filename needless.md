@@ -8,6 +8,8 @@ subtitle: Because Why Not?
 
 ![](Plots/plot_calendar.png)
 
+![](Plots/plot_calendar_vaccine.png)
+
 ![](Plots/AnimatedProvs.gif)
 
 ![](Plots/plot_balls.png)
