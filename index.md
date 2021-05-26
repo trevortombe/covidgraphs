@@ -49,9 +49,11 @@ the past week and 361,552/day the week prior.
 
 ![](Plots/pace_national.png)
 
-And a measure of effective coverage:
+And finally, dose counts and the share of a population with a shot is informative and important. But the population-level effective protection this provides is lower. One dose is less effective than two, plus there are lags in the vaccine's effect along with numerous uncertainties (especially where the variants are concerned). Based on a two to three week lag, a first-dose efficacy of between 40 to 80 percent, and a second dose efficacy of 95 percent, our current effective coverage is between 16-33%.
 
 ![](Plots/plot_effective.png)
+
+For a useful summary of the research literature, see: https://www.publichealthontario.ca/-/media/documents/ncov/covid-wwksf/2021/04/wwksf-vaccine-effectiveness.pdf?la=en
 
 ------------------------------------------------------------------------
 
