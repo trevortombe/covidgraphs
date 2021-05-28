@@ -11,23 +11,23 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-05-27 16:56:16 MDT. For
+The information below was last updated at 2021-05-28 10:24:41 MDT. For
 regular progress bar updates, follow
 <a href="https://twitter.com/CDNVaccineCount" class="uri">@CDNVaccineCount</a>
 on twitter.
 
-COVID vaccination update for May 27, 2021:
+COVID vaccination update for May 28, 2021:
 
--   Shots reported today: 408,267
--   Total shots given: 22,347,313
--   Age 12+ w/ 1+ Shots: 61.9%
--   Age 18+ w/ 1+ Shots: 67.0% (est)
--   Shots per 100 people: 58.8
--   People fully vaccinated: 1,808,107
--   Doses distributed: 25,988,534
--   Share of distributed doses administered: 86.0%
--   Inventory: 10.2 days (at avg pace)
--   Days to 75/20 target: 26
+-   Shots reported today: 275,216
+-   Total shots given: 22,622,529
+-   Age 12+ w/ 1+ Shots: 62.6%
+-   Age 18+ w/ 1+ Shots: 66.6% (est)
+-   Shots per 100 people: 59.5
+-   People fully vaccinated: 1,856,142
+-   Doses distributed: 25,998,234
+-   Share of distributed doses administered: 87.0%
+-   Inventory: 10.3 days (at avg pace)
+-   Days to 75/20 target: 27
 
 Source:
 <a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>
@@ -41,11 +41,11 @@ Source:
 
 Canada’s pace of vaccination:
 
-Today’s 408,267 shots given compares to an average of 357,964/day over
-the past week and 363,383/day the week prior.
+Today’s 275,216 shots given compares to an average of 327,535/day over
+the past week and 370,780/day the week prior.
 
--   Pace req’d for 2 doses to 75% of Canadians by Sept 30: 275,117
--   At current avg pace, we reach 75% by Aug 31
+-   Pace req’d for 2 doses to 75% of Canadians by Sept 30: 275,116
+-   At current avg pace, we reach 75% by Sep 09
 
 ![](Plots/pace_national.png)
 
@@ -56,7 +56,7 @@ are lags in the vaccine’s effect along with numerous uncertainties
 (especially where the variants are concerned). Based on a two to three
 week lag, a first-dose efficacy of between 40 to 80 percent, and a
 second dose efficacy of 95 percent, our current coverage of effective
-protection is between 17 to 34 percent.
+protection is between 17 to 35 percent.
 
 ![](Plots/plot_effective.png)
 
