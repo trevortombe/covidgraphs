@@ -7,24 +7,24 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-05-30 17:11:19 MDT.
+The information below was last updated at 2021-05-31 09:28:25 MDT.
 
-COVID vaccination update for May 30, 2021:
+COVID vaccination update for May 31, 2021:
 
--   Total shots given: 23,472,216
--   Shots per 100 people: 61.8
--   Shots reported today: 315,187
--   Inventory: 7.3 days (at avg pace)
--   Adults w/ 1+ Shots: 68.6%
+-   Total shots given: 23,654,026
+-   Shots per 100 people: 62.2
+-   Shots reported today \*: 181,810
+-   Inventory: 7.2 days (at avg pace)
+-   Adults w/ 1+ Shots: 68.9%
 
 Source:
 <a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>
 
-Note: Weekend updates are incomplete
+Note: Includes some weekend doses
 
 ![](Plots/plot_main.png)
 
-In total, Canada is now up to 23.5 million shots given – which is 90.3%
+In total, Canada is now up to 23.7 million shots given – which is 91.0%
 of the total 26.0 million doses available. Over the past 7 days,
 2,067,030 doses have been delivered to provinces.
 
@@ -34,11 +34,11 @@ And so far 2.0 million are fully vaccinated with two shots.
 
 Canada’s pace of vaccination:
 
-Today’s 315,187 shots given compares to an average of 349,373/day over
-the past week and 372,961/day the week prior.
+Today’s 181,810 shots given compares to an average of 324,640/day over
+the past week and 367,949/day the week prior.
 
--   Pace req’d for 2 doses to 75% of Canadians by Sept 30: 272,681
--   At current avg pace, we reach 75% by Sep 02
+-   Pace req’d for 2 doses to 75% of Canadians by Sept 30: 273,426
+-   At current avg pace, we reach 75% by Sep 10
 
 ![](Plots/pace_national.png)
 
