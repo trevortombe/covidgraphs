@@ -1,10 +1,7 @@
 ---
 layout: page
 title: International Projections
-subtitle: Where Selected Countries Are Headed, And How Canada Compares
+subtitle: Doses per 100
 full-width: true
 ---
-
-The following displays total doses per 100 population:
-
-<span style='display:block;text-align:center'>![](Plots/Projections/proj_Austria.png)![](Plots/Projections/proj_Belgium.png)![](Plots/Projections/proj_Chile.png)![](Plots/Projections/proj_Denmark.png)![](Plots/Projections/proj_European_Union.png)![](Plots/Projections/proj_France.png)![](Plots/Projections/proj_Germany.png)![](Plots/Projections/proj_Hungary.png)![](Plots/Projections/proj_Iceland.png)![](Plots/Projections/proj_Ireland.png)![](Plots/Projections/proj_Israel.png)![](Plots/Projections/proj_Italy.png)![](Plots/Projections/proj_Mexico.png)![](Plots/Projections/proj_Norway.png)![](Plots/Projections/proj_Poland.png)![](Plots/Projections/proj_South_America.png)![](Plots/Projections/proj_Spain.png)![](Plots/Projections/proj_Switzerland.png)![](Plots/Projections/proj_United_Kingdom.png)![](Plots/Projections/proj_United_States.png)</span>
+<span style='display:block;text-align:center'>![](Plots/ProjectionsTotal/proj_total_Austria.png)![](Plots/ProjectionsTotal/proj_total_Belgium.png)![](Plots/ProjectionsTotal/proj_total_Chile.png)![](Plots/ProjectionsTotal/proj_total_Denmark.png)![](Plots/ProjectionsTotal/proj_total_European_Union.png)![](Plots/ProjectionsTotal/proj_total_France.png)![](Plots/ProjectionsTotal/proj_total_Germany.png)![](Plots/ProjectionsTotal/proj_total_Hungary.png)![](Plots/ProjectionsTotal/proj_total_Iceland.png)![](Plots/ProjectionsTotal/proj_total_Ireland.png)![](Plots/ProjectionsTotal/proj_total_Israel.png)![](Plots/ProjectionsTotal/proj_total_Italy.png)![](Plots/ProjectionsTotal/proj_total_Mexico.png)![](Plots/ProjectionsTotal/proj_total_Norway.png)![](Plots/ProjectionsTotal/proj_total_Poland.png)![](Plots/ProjectionsTotal/proj_total_South_America.png)![](Plots/ProjectionsTotal/proj_total_Spain.png)![](Plots/ProjectionsTotal/proj_total_Switzerland.png)![](Plots/ProjectionsTotal/proj_total_United_Kingdom.png)![](Plots/ProjectionsTotal/proj_total_United_States.png)</span>
