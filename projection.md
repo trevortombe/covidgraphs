@@ -8,6 +8,10 @@ When might Canada achieve herd immunity? There is no specific vaccinate rate thr
 
 ![](Plots/pace_national_projection.png)
 
+But as Canada's vaccination rate increases, the number of unvaccinated individuals declines and the pace of future increases will naturally decline. The above projection based only on the current trajectory may therefore be projecting dates that are too soon. If one models a logistic growth process for vaccination rates, calibrated to the most recent week of data and presuming a 90 percent ceiling, then the following is the result:
+
+![](Plots/pace_national_projection_logistic.png)
+
 ---
 
 But recent [federal government modeling](https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20210423-en.pdf) suggests health rules may be safely eased once 75 per cent of adults have at least one dose and 20 per cent have two. This requires approximately 30 million doses. The following projection illustrates when that might be achieved.
@@ -39,5 +43,3 @@ Finally, Canada's current pace is faster than other jurisdictions. Here's a look
 ![](Plots/pace_cdn_usa_projection.png)
 
 ![](Plots/pace_cdn_usa_projection_doses.png)
-
-![](Plots/pace_cdn_uk_projection.png)
