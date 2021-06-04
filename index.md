@@ -47,7 +47,7 @@ the past week and 354,418/day the week prior.
 -   Pace req’d for 2 doses to 75% of Canadians by Sept 30: 267,920
 -   At current avg pace, we reach 75% by Aug 28
 
-![](Plots/pace_national.png)
+![](Plots/pace_national2.png)
 
 And finally, dose counts and the share of a population with a shot is
 informative and important, but the population-level effective protection
