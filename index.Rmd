@@ -4,9 +4,10 @@
 **Welcome!** This website provides several visualizations of COVID-19 vaccination progress in Canada based on data collected mainly from [COVID Canada](https://covid19tracker.ca/vaccinationtracker.html) and [Our World in Data](https://ourworldindata.org/covid-vaccinations). The latest federal distribution schedule is [available here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html). The information below was last updated at `r accessed` MDT. For regular progress bar updates, follow <a href="https://twitter.com/CDNVaccineCount" class="uri">@CDNVaccineCount</a> on twitter.
 
 `r paste0(paste0("COVID vaccination update for ",gsub(" 0"," ",format(accessed,"%B %d, %Y")),":\n\n"),
-                    ifelse(wday(today)==2,paste0("- Shots reported today *: ",new_doses,"\n"),
-                           paste0("- Shots reported today: ",new_doses,"\n")),
-                    "- Total shots given: ",total_doses,"\n",
+                    ifelse(wday(today)==2,paste0("- Shots reported today *: ",new_doses),
+                           paste0("- Shots reported today: ",new_doses)),
+                           " (",percent(filter(first_second_share,date==max(date) & type=="second_share")$val,1)," 2nd doses)",
+                    "\n- Total shots given: ",total_doses,"\n",
                     "- Age 12+ w/ 1+ Shots: ",age12_vaccinated,"\n",
                     "- Age 18+ w/ 1+ Shots: ",adult_share_experimental," (est)\n",
                     "- Shots per 100 people: ",number(pop_share*100,.1),"\n",
@@ -26,7 +27,7 @@
 
 `r third_tweet`
 
-![](Plots/pace_national.png)
+![](Plots/pace_national2.png)
 
 And finally, dose counts and the share of a population with a shot is informative and important, but the population-level effective protection this provides is lower. One dose is less effective than two, plus there are lags in the vaccine's effect along with numerous uncertainties (especially where the variants are concerned). Based on a two to three week lag, a first-dose efficacy of between 40 to 80 percent, and a second dose efficacy of 95 percent, our current coverage of effective protection is between `r paste0(round(100*filter(plotdata_effective,date==max(date))$low_est),
                         " to ",round(100*filter(plotdata_effective,date==max(date))$high_est))` percent.
