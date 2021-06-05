@@ -18,7 +18,7 @@ on twitter.
 
 COVID vaccination update for June 4, 2021:
 
--   Shots reported today: 463,924
+-   Shots reported today: 463,924 (36% 2nd doses)
 -   Total shots given: 25,397,448
 -   Age 12+ w/ 1+ Shots: 68.8%
 -   Age 18+ w/ 1+ Shots: 71.9% (est)
@@ -47,7 +47,7 @@ the past week and 354,418/day the week prior.
 -   Pace req’d for 2 doses to 75% of Canadians by Sept 30: 267,920
 -   At current avg pace, we reach 75% by Aug 28
 
-![](Plots/pace_national.png)
+![](Plots/pace_national2.png)
 
 And finally, dose counts and the share of a population with a shot is
 informative and important, but the population-level effective protection
