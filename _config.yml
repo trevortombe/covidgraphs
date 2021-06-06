@@ -10,7 +10,9 @@ plugins:
 remote_theme: daattali/beautiful-jekyll
 
 navbar-links:
-  Projections: "projection"
+  Projections: 
+    - National: "projection"
+    - Provincial: "prov_proj"
   By Age: "ageplots"
   Alberta: "alberta"
   Comparisons:
