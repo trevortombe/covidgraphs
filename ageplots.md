@@ -1,6 +1,6 @@
 ---
 layout: page
-title: By Age
+title: Canadian Vaccines by Age
 subtitle: Vaccination rates by age and sex
 ---
 
@@ -8,6 +8,10 @@ Vaccination rates by detailed age and sex are available through the federal gove
 
 <iframe title="COVID Vaccination Rates by Age in Canada" aria-label="Stacked Bars" id="datawrapper-chart-RaMkr" src="https://datawrapper.dwcdn.net/RaMkr/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="417"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
+Or a static version of the same:
+
+![](Plots/demo_plot_bar_proj.png)
 
 ---
 
@@ -24,10 +28,3 @@ The actual data follows, though it features a long lag.
 Based on the weekly age data, the following presents an experimental estimate of the daily age distribution of doses administered in Canada. Imputation by age is required in early months due to data limitations. Younger individuals vaccined in early phases of the campaign are primarily healthcare workers, although this data was discontinued after April 10.
 
 ![](Plots/age_area.png)
-
----
-
-For Alberta specifically, here is their latest daily updated data for vaccination rates by age:
-
-![](Plots/demo_plot_bar_ab.png)
-
