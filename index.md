@@ -11,7 +11,7 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-06-08 16:51:12 MDT. For
+The information below was last updated at 2021-06-08 18:38:43 MDT. For
 regular progress bar updates, follow
 <a href="https://twitter.com/CDNVaccineCount" class="uri">@CDNVaccineCount</a>
 on twitter.
@@ -24,9 +24,9 @@ COVID vaccination update for June 8, 2021:
 -   Age 18+ w/ 1+ Shots: 73.3% (est)
 -   Shots per 100 people: 70.7
 -   People fully vaccinated: 3,184,937
--   Doses distributed: 29,890,244
--   Share of distributed doses administered: 89.8%
--   Inventory: 7.9 days (at avg pace)
+-   Doses distributed: 30,133,604
+-   Share of distributed doses administered: 89.1%
+-   Inventory: 8.5 days (at avg pace)
 -   Days to 75/20 target: 12
 
 Source:

@@ -21,7 +21,3 @@ So a potentially better summary meausure is a comparison of the total doses per 
 A look at the share of deliveries that have been administered over time.
 
 ![](Plots/share_used.png)
-
-And looking forward, here is what the current pace of vaccination implies about the time it will take each province to reach three quarters of the adult population covered by at least one dose.
-
-![](Plots/pace_prov_projection_all.png)
