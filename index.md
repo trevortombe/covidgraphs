@@ -3,7 +3,7 @@ layout: page
 title: Canada's COVID Vaccine Progress
 cover-img: ['Plots/sunrise.jpg' : 'Unsplash: @psychedelaholic']
 ---
-![](Plots/plot_main.png)
+![](Plots/plot_main2.png)
 
 **Welcome!** This website provides several visualizations of COVID-19
 vaccination progress in Canada based on data collected mainly from
@@ -11,23 +11,23 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-06-10 18:02:43 MDT. For
+The information below was last updated at 2021-06-11 17:07:23 MDT. For
 regular progress bar updates, follow
 <a href="https://twitter.com/CDNVaccineCount" class="uri">@CDNVaccineCount</a>
 on twitter.
 
-COVID vaccination update for June 10, 2021:
+COVID vaccination update for June 11, 2021:
 
--   Shots reported today: 471,409 (63% 2nd doses)
--   Total shots given: 27,729,183
--   Age 12+ w/ 1+ Shots: 72.3%
--   Age 18+ w/ 1+ Shots: 73.8% (est)
--   Shots per 100 people: 73.0
--   People fully vaccinated: 3,718,478
--   Doses distributed: 30,658,724
--   Share of distributed doses administered: 90.4%
--   Inventory: 7.3 days (at avg pace)
--   Days to 75/20 target: 10
+-   Shots reported today: 452,332 (63% 2nd doses)
+-   Total shots given: 28,181,896
+-   Age 12+ w/ 1+ Shots: 72.8%
+-   Age 18+ w/ 1+ Shots: 75.1% (est)
+-   Shots per 100 people: 74.2
+-   People fully vaccinated: 4,001,468
+-   Doses distributed: 31,425,644
+-   Share of distributed doses administered: 89.7%
+-   Inventory: 8.2 days (at avg pace)
+-   Days to 75/20 target: 8
 
 Source:
 <a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>
@@ -41,8 +41,8 @@ Source:
 
 Canada’s daily pace:
 
-Today’s 471,409 shots given compares to an average of 399,380/day over
-the past week and 369,459/day the week prior.
+Today’s 452,332 shots given compares to an average of 397,778/day over
+the past week and 369,534/day the week prior.
 
 We can use the latest average daily pace to project where vaccination
 rates are soon headed.
@@ -56,7 +56,7 @@ are lags in the vaccine’s effect along with numerous uncertainties
 (especially where the variants are concerned). Based on a first-dose
 efficacy of between 40 to 80 percent with a 2-3 week lag and a second
 dose efficacy of 90 to 95 percent with a 0 to 2 week lag, our current
-coverage of effective protection is between 22 to 44 percent. The margin
+coverage of effective protection is between 23 to 45 percent. The margin
 of error here is wide, which reflects the high degree of variation in
 efficacy estimates and uncertainty with new variants. This is meant to
 provide intuition and rough magnitudes, it does not rigorous public

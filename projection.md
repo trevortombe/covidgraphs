@@ -11,3 +11,9 @@ When might Canada achieve herd immunity? There is no specific vaccinate rate thr
 Projecting forward, the average doses administered per day is fairly stable. But as Canada's vaccination rate increases, the number of unvaccinated individuals declines and the pace of future increases in the share with at least one dose will naturally decline. To get a sense of when we might reach different vaccination rates, I construct a logistic growth process for vaccination rates, calibrated to the most recent week of daily doses administered and an 85 percent ceiling. This is the result:
 
 ![](Plots/pace_national_projection_logistic2.png)
+
+---
+
+Can the pace of vaccine administration be maintained? Here is prior vaccine deliveries to provinces combined with the latest schedule from the federal government. 
+
+![](Plots/pace_national_doses.png)
