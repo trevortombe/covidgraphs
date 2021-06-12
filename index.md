@@ -11,26 +11,28 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-06-11 19:40:14 MDT. For
+The information below was last updated at 2021-06-12 15:51:42 MDT. For
 regular progress bar updates, follow
 <a href="https://twitter.com/CDNVaccineCount" class="uri">@CDNVaccineCount</a>
 on twitter.
 
-COVID vaccination update for June 11, 2021:
+COVID vaccination update for June 12, 2021:
 
--   Shots reported today: 510,910 (new record!) (64% 2nd doses)
--   Total shots given: 28,240,474
--   Age 12+ w/ 1+ Shots: 72.9%
--   Age 18+ w/ 1+ Shots: 75.1% (est)
--   Shots per 100 people: 74.3
--   People fully vaccinated: 4,045,324
--   Doses distributed: 31,425,644
--   Share of distributed doses administered: 89.9%
--   Inventory: 7.8 days (at avg pace)
--   Days to 75/20 target: 8
+-   Shots reported today: 399,421 (71% 2nd doses)
+-   Total shots given: 28,639,895
+-   Age 12+ w/ 1+ Shots: 73.2%
+-   Age 18+ w/ 1+ Shots: 75.4% (est)
+-   Shots per 100 people: 75.4
+-   People fully vaccinated: 4,330,796
+-   Doses distributed: 31,433,444
+-   Share of distributed doses administered: 91.1%
+-   Inventory: 6.8 days (at avg pace)
+-   Days to 75/20 target: 7
 
 Source:
 <a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>
+
+Note: Weekend updates are incomplete
 
 <iframe title="COVID Vaccination Progress in Canada" aria-label="table" id="datawrapper-chart-d3PPr" src="https://datawrapper.dwcdn.net/d3PPr/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="601">
 </iframe>
@@ -41,8 +43,8 @@ Source:
 
 Canada’s daily pace:
 
-Today’s 510,910 shots given compares to an average of 406,147/day over
-the past week and 369,534/day the week prior.
+Today’s 399,421 shots given compares to an average of 409,630/day over
+the past week and 373,637/day the week prior.
 
 We can use the latest average daily pace to project where vaccination
 rates are soon headed.
