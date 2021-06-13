@@ -11,19 +11,19 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-06-12 15:51:42 MDT. For
+The information below was last updated at 2021-06-12 17:49:24 MDT. For
 regular progress bar updates, follow
 <a href="https://twitter.com/CDNVaccineCount" class="uri">@CDNVaccineCount</a>
 on twitter.
 
 COVID vaccination update for June 12, 2021:
 
--   Shots reported today: 399,421 (71% 2nd doses)
--   Total shots given: 28,639,895
+-   Shots reported today: 403,968 (71% 2nd doses)
+-   Total shots given: 28,644,442
 -   Age 12+ w/ 1+ Shots: 73.2%
 -   Age 18+ w/ 1+ Shots: 75.4% (est)
 -   Shots per 100 people: 75.4
--   People fully vaccinated: 4,330,796
+-   People fully vaccinated: 4,332,854
 -   Doses distributed: 31,433,444
 -   Share of distributed doses administered: 91.1%
 -   Inventory: 6.8 days (at avg pace)
@@ -43,7 +43,7 @@ Note: Weekend updates are incomplete
 
 Canada’s daily pace:
 
-Today’s 399,421 shots given compares to an average of 409,630/day over
+Today’s 403,968 shots given compares to an average of 410,279/day over
 the past week and 373,637/day the week prior.
 
 We can use the latest average daily pace to project where vaccination
