@@ -3,7 +3,7 @@ layout: page
 title: Canada's COVID Vaccine Progress
 cover-img: ['Plots/sunrise.jpg' : 'Unsplash: @psychedelaholic']
 ---
-![](Plots/plot_main.png)
+![](Plots/plot_main2.png)
 
 **Welcome!** This website provides several visualizations of COVID-19
 vaccination progress in Canada based on data collected mainly from
