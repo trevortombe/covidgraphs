@@ -18,6 +18,12 @@ So a potentially better summary meausure is a comparison of the total doses per 
 
 ---
 
+As the vaccination rates in each region increase, it is increasingly important to assess how quickly we are approaching the hesitant population and how quickly the pace of vaccinations will decline. Here's a comparison of vaccination rates versus first dose pace for each province.
+
+![](Plots/pace_decline_provs.png)
+
+---
+
 A look at the share of deliveries that have been administered over time.
 
 ![](Plots/share_used.png)
