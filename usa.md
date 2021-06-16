@@ -14,3 +14,5 @@ This compares the share of each province, territory, and state's population that
 ![](Plots/pace_cdn_usa_projection.png)
 
 ![](Plots/pace_cdn_usa_projection_doses.png)
+
+![](Plots/pace_cdn_usa_projection_full.png)

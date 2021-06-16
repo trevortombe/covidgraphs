@@ -24,6 +24,7 @@ navbar-links:
     - World: "international"
     - Projections: "int_proj"
     - Total Doses: "int_proj_total"
+    - Fully Vaxxed: "int_proj_full"
   Needlessly Fancy: "needless"
   COVID Cases: "cases"
   Author's Home: "https://www.trevortombe.com"
