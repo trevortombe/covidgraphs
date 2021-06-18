@@ -10,13 +10,9 @@ subtitle: Because Why Not?
 
 ![](Plots/plot_calendar_vaccine.png)
 
-![](Plots/AnimatedProvs.gif)
-
 ![](Plots/plot_balls.png)
 
 ![](Plots/AnimatedBar.gif)
-
-![](Plots/AnimatedUSACANBar.gif)
 
 ![](Plots/AnimatedBalls.gif)
 
