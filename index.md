@@ -50,7 +50,7 @@ Our 7-day average pace of administering shots: 455,991/day over the past
 week and 410,279/day the week prior.
 
 We can use the latest average daily pace to project where vaccination
-rates are soon headed. (Next tweet).
+rates are soon headed.
 
 ![](Plots/pace_national2.png)
 
