@@ -21,6 +21,8 @@ The actual data follows, though it features a long lag.
 
 ![](Plots/demo_plot.png)
 
+![](Plots/demo_plot_balls.png)
+
 ---
 
 Based on the weekly age data, the following presents an experimental estimate of the daily age distribution of doses administered in Canada. Imputation by age is required in early months due to data limitations. Younger individuals vaccined in early phases of the campaign are primarily healthcare workers, although this data was discontinued after April 10.
