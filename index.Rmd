@@ -15,7 +15,7 @@
                     "- Doses distributed: ",comma(latest$dist),"\n",
                     "- Share of distributed doses administered: ",share_dist_used,"\n",
                     "- Inventory: ",inventory," days (at avg pace)\n",
-                    "- Days to 75/20 target: ",round(tamdate$totam),"\n",
+                    #"- Days to 75/20 target: ",round(tamdate$totam),"\n",
                     "\n\nSource: https://covid19tracker.ca/vaccinationtracker.html",
                     ifelse(wday(today)==7 | wday(today)==1,"\n\nNote: Weekend updates are incomplete",""),
                     ifelse(wday(today)==2,"\n\nNote: Includes some weekend doses",""))`
