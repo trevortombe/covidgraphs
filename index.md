@@ -11,7 +11,7 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-06-22 18:27:29 MDT. For
+The information below was last updated at 2021-06-23 16:26:56 MDT. For
 regular progress bar updates, follow
 <a href="https://twitter.com/CDNVaccineCount" class="uri">@CDNVaccineCount</a>
 on twitter. Note: I use the [Statistics Canada real-time population
@@ -19,17 +19,17 @@ estimates](https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2018005-eng.htm)
 as the basis for most of shares reported on this site. Other sources may
 differ for this reason.
 
-COVID vaccination update for June 22, 2021:
+COVID vaccination update for June 23, 2021:
 
--   Shots reported today: 481,126 (86% 2nd doses)
--   Total shots given: 33,067,395
--   Age 12+ w/ 1+ Shots: 75.6%
--   Age 18+ w/ 1+ Shots: 77.1% (est)
--   Shots per 100 people: 86.5
--   People fully vaccinated: 7,817,265
--   Doses distributed: 37,037,640
--   Share of distributed doses administered: 89.3%
--   Inventory: 8.8 days (at avg pace)
+-   Shots reported today: 514,027 (88% 2nd doses)
+-   Total shots given: 33,584,667
+-   Age 12+ w/ 1+ Shots: 75.8%
+-   Age 18+ w/ 1+ Shots: 77.2% (est)
+-   Shots per 100 people: 87.8
+-   People fully vaccinated: 8,273,596
+-   Doses distributed: 37,555,640
+-   Share of distributed doses administered: 89.4%
+-   Inventory: 8.7 days (at avg pace)
 
 Source:
 <a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>
@@ -43,8 +43,8 @@ Source:
 
 Canada’s daily pace:
 
-Our 7-day average pace of administering shots: 449,935/day over the past
-week and 437,458/day the week prior.
+Our 7-day average pace of administering shots: 457,863/day over the past
+week and 445,979/day the week prior.
 
 We can use the latest average daily pace to project where vaccination
 rates are soon headed.
