@@ -7,9 +7,9 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-06-30 17:06:40 MDT.
+The information below was last updated at 2021-06-30 17:31:40 MDT.
 
-COVID vaccination update for June 30, 2021 (reports as of 7 PM ET):
+COVID vaccination update for June 30, 2021 (reports as of 8 PM ET):
 
 -   Total shots given: 37,384,318
 -   Shots per 100 people: 97.7
