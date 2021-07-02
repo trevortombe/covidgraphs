@@ -8,7 +8,7 @@
                            paste0("- Shots reported today: ",new_doses)),
                            " (",percent(filter(first_second_share,date==max(date) & type=="second_share")$val,1)," 2nd doses)",
                     "\n- Total shots given: ",total_doses,"\n",
-                    "- Age 12+ w/ 1+ Shots: ",age12_vaccinated,"\n",
+                    "- Age 12+ w/ 1+ Shots: ",percent(filter(plot_multi_bar,type=="any_age12")$label,.1),"\n",
                     "- Age 18+ w/ 1+ Shots: ",adult_share_experimental," (est)\n",
                     "- Shots per 100 people: ",number(pop_share*100,.1),"\n",
                     "- People fully vaccinated: ",comma(latest$full),"\n",
