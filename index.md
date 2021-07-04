@@ -59,7 +59,7 @@ this provides is lower. One dose is less effective than two, plus there
 are lags in the vaccine’s effect along with numerous uncertainties
 (especially where the variants are concerned). Based on a first-dose
 efficacy of between 40 to 80 percent with a 2-3 week lag and a second
-dose efficacy of 90 to 95 percent with a 1 to 2 week lag, our current
+dose efficacy of 90 to 95 percent with a 0 to 2 week lag, our current
 coverage of effective protection is between 37 to 62 percent. The margin
 of error here is wide, which reflects the high degree of variation in
 efficacy estimates and uncertainty with new variants. This is meant to
