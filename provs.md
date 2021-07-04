@@ -18,6 +18,12 @@ So a potentially better summary meausure is a comparison of the total doses per 
 
 ---
 
+There is wide variation across provinces in the degree of vaccine hesitancy. Here's the fraction of each province and territories' population that both eligible for a COVID-19 shot but has not received one.
+
+![](Plots/Plots/prov_novax.png)
+
+---
+
 As the vaccination rates in each region increase, it is increasingly important to assess how quickly we are approaching the hesitant population and how quickly the pace of vaccinations will decline. Here's a comparison of vaccination rates versus first dose pace for each province.
 
 ![](Plots/pace_decline_provs.png)
