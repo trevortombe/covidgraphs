@@ -20,7 +20,7 @@ So a potentially better summary meausure is a comparison of the total doses per 
 
 There is wide variation across provinces in the degree of vaccine hesitancy. Here's the fraction of each province and territories' population that both eligible for a COVID-19 shot but has not received one.
 
-![](Plots/Plots/prov_novax.png)
+![](Plots/prov_novax.png)
 
 ---
 
