@@ -7,36 +7,34 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-07-05 18:39:44 MDT.
+The information below was last updated at 2021-07-06 16:32:54 MDT.
 
-COVID vaccination update for July 5, 2021 (reports as of 9 PM ET):
+COVID vaccination update for July 6, 2021 (reports as of 7 PM ET):
 
--   Total shots given: 39,701,386
--   Shots per 100 people: 103.8
--   Shots reported \*: 602,485
--   Inventory: 18.3 days (at avg pace)
--   Adults w/ 1+ Shots: 78.2%
+-   Total shots given: 40,187,887
+-   Shots per 100 people: 105.1
+-   Shots reported: 486,501
+-   Inventory: 18.9 days (at avg pace)
+-   Adults w/ 1+ Shots: 78.3%
 
 Source:
 <a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>
 
-Note: Includes some weekend doses
-
 ![](Plots/plot_main.png)
 
-Canada is now up to 39.7 million shots given – which is 81.3% of the
-total 49 million doses available and 79% of the 50 million needed to
+Canada is now up to 40.2 million shots given – which is 81.4% of the
+total 49 million doses available and 80% of the 50 million needed to
 fully vaccinated 75% of eligible people
 
-Over the past 7 days, 6.0 million doses have been delivered to
+Over the past 7 days, 4.7 million doses have been delivered to
 provinces.
 
 ![](Plots/plot_total.png)
 
 Canada’s daily pace:
 
-Our 7-day average pace of administering shots: 500,263/day over the past
-week and 514,498/day the week prior.
+Our 7-day average pace of administering shots: 487,382/day over the past
+week and 529,367/day the week prior.
 
 We can use the latest average daily pace to project where vaccination
 rates are soon headed.
