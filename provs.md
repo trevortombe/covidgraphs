@@ -22,6 +22,10 @@ There is wide variation across provinces in the degree of vaccine hesitancy. Her
 
 ![](Plots/prov_novax.png)
 
+Differences across young people is particularly important.
+
+![](Plots/plot_prov1839.png)
+
 ---
 
 As the vaccination rates in each region increase, it is increasingly important to assess how quickly we are approaching the hesitant population and how quickly the pace of vaccinations will decline. Here's a comparison of vaccination rates versus first dose pace for each province.
