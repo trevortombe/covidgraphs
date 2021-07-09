@@ -11,7 +11,7 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-07-08 16:36:17 MDT. For
+The information below was last updated at 2021-07-09 16:27:51 MDT. For
 regular progress bar updates, follow
 <a href="https://twitter.com/CDNVaccineCount" class="uri">@CDNVaccineCount</a>
 on twitter. Note: I use the [Statistics Canada real-time population
@@ -19,17 +19,17 @@ estimates](https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2018005-eng.htm)
 as the basis for most of shares reported on this site. Other sources may
 differ for this reason.
 
-COVID vaccination update for July 8, 2021 (reports as of 7 PM ET):
+COVID vaccination update for July 9, 2021 (reports as of 6 PM ET):
 
--   Shots reported today: 621,201 (90% 2nd doses)
--   Total shots given: 41,312,866
--   Age 12+ w/ 1+ Shots: 78.1%
--   Age 18+ w/ 1+ Shots: 78.6% (est)
--   Shots per 100 people: 108.0
--   People fully vaccinated: 15,219,854
--   Doses distributed: 50,532,018
--   Share of distributed doses administered: 81.8%
--   Inventory: 18.5 days (at avg pace)
+-   Shots reported today: 534,460 (90% 2nd doses)
+-   Total shots given: 41,847,326
+-   Age 12+ w/ 1+ Shots: 78.2%
+-   Age 18+ w/ 1+ Shots: 78.8% (est)
+-   Shots per 100 people: 109.4
+-   People fully vaccinated: 15,703,220
+-   Doses distributed: 50,485,720
+-   Share of distributed doses administered: 82.9%
+-   Inventory: 17.6 days (at avg pace)
 
 Source:
 <a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>
@@ -43,8 +43,8 @@ Source:
 
 Canada’s daily pace:
 
-Our 7-day average pace of administering shots: 499,499/day over the past
-week and 520,257/day the week prior.
+Our 7-day average pace of administering shots: 489,932/day over the past
+week and 531,832/day the week prior.
 
 We can use the latest average daily pace to project where vaccination
 rates are soon headed.
