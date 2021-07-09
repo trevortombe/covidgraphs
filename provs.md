@@ -26,6 +26,10 @@ Differences across young people is particularly important.
 
 ![](Plots/plot_prov1839.png)
 
+Across all ages, I estimate how much lower/higher each province's 12+ vaccination rate is compared to what it would be if all age categories equaled the rest of Canada.
+
+![](Plots/plot_gapmap.png)
+
 ---
 
 As the vaccination rates in each region increase, it is increasingly important to assess how quickly we are approaching the hesitant population and how quickly the pace of vaccinations will decline. Here's a comparison of vaccination rates versus first dose pace for each province.
