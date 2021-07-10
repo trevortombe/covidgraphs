@@ -11,7 +11,7 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-07-10 14:30:37 MDT. For
+The information below was last updated at 2021-07-10 16:00:06 MDT. For
 regular progress bar updates, follow
 <a href="https://twitter.com/CDNVaccineCount" class="uri">@CDNVaccineCount</a>
 on twitter. Note: I use the [Statistics Canada real-time population
@@ -19,17 +19,17 @@ estimates](https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2018005-eng.htm)
 as the basis for most of shares reported on this site. Other sources may
 differ for this reason.
 
-COVID vaccination update for July 10, 2021 (reports as of 5 PM ET):
+COVID vaccination update for July 10, 2021 (reports as of 6 PM ET):
 
--   Shots reported today: 349,183 (91% 2nd doses)
--   Total shots given: 42,208,306
--   Age 12+ w/ 1+ Shots: 78.3%
+-   Shots reported today: 364,806 (91% 2nd doses)
+-   Total shots given: 42,223,929
+-   Age 12+ w/ 1+ Shots: 78.4%
 -   Age 18+ w/ 1+ Shots: 78.9% (est)
 -   Shots per 100 people: 110.4
--   People fully vaccinated: 16,031,712
+-   People fully vaccinated: 16,045,371
 -   Doses distributed: 50,491,050
 -   Share of distributed doses administered: 83.6%
--   Inventory: 16.9 days (at avg pace)
+-   Inventory: 16.8 days (at avg pace)
 
 Source:
 <a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>
@@ -45,7 +45,7 @@ Note: Weekend updates are incomplete
 
 Canada’s daily pace:
 
-Our 7-day average pace of administering shots: 490,181/day over the past
+Our 7-day average pace of administering shots: 492,412/day over the past
 week and 520,174/day the week prior.
 
 We can use the latest average daily pace to project where vaccination
