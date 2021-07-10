@@ -13,6 +13,3 @@ subtitle: Because Why Not?
 ![](Plots/plot_balls.png)
 
 ![](Plots/AnimatedBar.gif)
-
-![](Plots/AnimatedBalls.gif)
-
