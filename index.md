@@ -11,7 +11,7 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-07-13 16:28:07 MDT. For
+The information below was last updated at 2021-07-13 18:00:10 MDT. For
 regular progress bar updates, follow
 <a href="https://twitter.com/CDNVaccineCount" class="uri">@CDNVaccineCount</a>
 on twitter. Note: I use the [Statistics Canada real-time population
@@ -19,17 +19,17 @@ estimates](https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2018005-eng.htm)
 as the basis for most of shares reported on this site. Other sources may
 differ for this reason.
 
-COVID vaccination update for July 13, 2021 (reports as of 6 PM ET):
+COVID vaccination update for July 13, 2021 (reports as of 8 PM ET):
 
--   Shots reported today: 391,922 (91% 2nd doses)
--   Total shots given: 43,406,094
+-   Shots reported today: 415,664 (91% 2nd doses)
+-   Total shots given: 43,429,836
 -   Age 12+ w/ 1+ Shots: 78.7%
 -   Age 18+ w/ 1+ Shots: 79.2% (est)
--   Shots per 100 people: 113.4
--   People fully vaccinated: 17,108,176
--   Doses distributed: 51,589,872
--   Share of distributed doses administered: 84.1%
--   Inventory: 17.8 days (at avg pace)
+-   Shots per 100 people: 113.5
+-   People fully vaccinated: 17,128,728
+-   Doses distributed: 51,731,442
+-   Share of distributed doses administered: 84.0%
+-   Inventory: 17.9 days (at avg pace)
 
 Source:
 <a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>
@@ -43,7 +43,7 @@ Source:
 
 Canada’s daily pace:
 
-Our 7-day average pace of administering shots: 459,744/day over the past
+Our 7-day average pace of administering shots: 463,136/day over the past
 week and 487,382/day the week prior.
 
 We can use the latest average daily pace to project where vaccination
