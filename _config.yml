@@ -16,6 +16,7 @@ navbar-links:
   Provinces: 
     - Comparisons: "provs"
     - Projections: "prov_proj"
+    - Age Detail: "prov_age"
     - Alberta: "alberta"
     - Ontario: "ontario"
   Comparisons:
