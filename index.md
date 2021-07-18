@@ -11,7 +11,7 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-07-17 17:28:22 MDT. For
+The information below was last updated at 2021-07-18 13:36:29 MDT. For
 regular progress bar updates, follow
 <a href="https://twitter.com/CDNVaccineCount" class="uri">@CDNVaccineCount</a>
 on twitter. Note: I use the [Statistics Canada real-time population
@@ -19,17 +19,17 @@ estimates](https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2018005-eng.htm)
 as the basis for most of shares reported on this site. Other sources may
 differ for this reason.
 
-COVID vaccination update for July 17, 2021 (reports as of 7 PM ET):
+COVID vaccination update for July 18, 2021 (reports as of 4 PM ET):
 
--   Shots reported today: 301,061 (89% 2nd doses)
--   Total shots given: 45,027,522
+-   Shots reported today: 225,110 (89% 2nd doses)
+-   Total shots given: 45,252,632
 -   Age 12+ w/ 1+ Shots: 79.2%
 -   Age 18+ w/ 1+ Shots: 79.7% (est)
--   Shots per 100 people: 117.6
--   People fully vaccinated: 18,556,079
+-   Shots per 100 people: 118.2
+-   People fully vaccinated: 18,756,816
 -   Doses distributed: 52,934,220
--   Share of distributed doses administered: 85.1%
--   Inventory: 19.7 days (at avg pace)
+-   Share of distributed doses administered: 85.5%
+-   Inventory: 19.6 days (at avg pace)
 
 Source:
 <a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>
@@ -45,10 +45,10 @@ Note: Weekend updates are incomplete
 
 Canada’s daily pace:
 
-Our 7-day average pace of administering shots: 400,513/day over the past
-week and 492,412/day the week prior.
+Our 7-day average pace of administering shots: 391,856/day over the past
+week and 487,249/day the week prior.
 
-Canada’s average daily pace is slowing. We’re now 26% below our June 30
+Canada’s average daily pace is slowing. We’re now 28% below our June 30
 peak average of 542,779.
 
 ![](Plots/pace_national2.png)
