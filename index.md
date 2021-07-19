@@ -11,7 +11,7 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-07-18 13:36:29 MDT. For
+The information below was last updated at 2021-07-19 15:43:53 MDT. For
 regular progress bar updates, follow
 <a href="https://twitter.com/CDNVaccineCount" class="uri">@CDNVaccineCount</a>
 on twitter. Note: I use the [Statistics Canada real-time population
@@ -19,22 +19,22 @@ estimates](https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2018005-eng.htm)
 as the basis for most of shares reported on this site. Other sources may
 differ for this reason.
 
-COVID vaccination update for July 18, 2021 (reports as of 4 PM ET):
+COVID vaccination update for July 19, 2021 (reports as of 6 PM ET):
 
--   Shots reported today: 225,110 (89% 2nd doses)
--   Total shots given: 45,252,632
--   Age 12+ w/ 1+ Shots: 79.2%
--   Age 18+ w/ 1+ Shots: 79.7% (est)
--   Shots per 100 people: 118.2
--   People fully vaccinated: 18,756,816
+-   Shots reported today \*: 425,174 (89% 2nd doses)
+-   Total shots given: 45,677,806
+-   Age 12+ w/ 1+ Shots: 79.4%
+-   Age 18+ w/ 1+ Shots: 79.9% (est)
+-   Shots per 100 people: 119.3
+-   People fully vaccinated: 19,137,111
 -   Doses distributed: 52,934,220
--   Share of distributed doses administered: 85.5%
--   Inventory: 19.6 days (at avg pace)
+-   Share of distributed doses administered: 86.3%
+-   Inventory: 19.1 days (at avg pace)
 
 Source:
 <a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>
 
-Note: Weekend updates are incomplete
+Note: Includes some weekend doses
 
 <iframe title="COVID Vaccination Progress in Canada" aria-label="table" id="datawrapper-chart-d3PPr" src="https://datawrapper.dwcdn.net/d3PPr/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="601">
 </iframe>
@@ -45,10 +45,10 @@ Note: Weekend updates are incomplete
 
 Canada’s daily pace:
 
-Our 7-day average pace of administering shots: 391,856/day over the past
-week and 487,249/day the week prior.
+Our 7-day average pace of administering shots: 380,519/day over the past
+week and 473,255/day the week prior.
 
-Canada’s average daily pace is slowing. We’re now 28% below our June 30
+Canada’s average daily pace is slowing. We’re now 30% below our June 30
 peak average of 542,779.
 
 ![](Plots/pace_national2.png)
@@ -60,7 +60,7 @@ are lags in the vaccine’s effect along with numerous uncertainties
 (especially where the variants are concerned). Based on a first-dose
 efficacy of between 40 to 80 percent with a 2-3 week lag and a second
 dose efficacy of 90 to 95 percent with a 1 to 2 week lag, our current
-coverage of effective protection is between 44 to 60 percent. The margin
+coverage of effective protection is between 45 to 61 percent. The margin
 of error here is wide, which reflects the high degree of variation in
 efficacy estimates and uncertainty with new variants. This is meant to
 provide intuition and rough magnitudes, it does not rigorous public
