@@ -7,38 +7,36 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-07-19 18:00:31 MDT.
+The information below was last updated at 2021-07-20 16:08:01 MDT.
 
-COVID vaccination update for July 19, 2021 (reports as of 8 PM ET):
+COVID vaccination update for July 20, 2021 (reports as of 6 PM ET):
 
--   Total shots given: 45,679,090
--   Shots per 100 people: 119.3
--   Shots reported \*: 426,458
--   Inventory: 19.1 days (at avg pace)
--   Adults w/ 1+ Shots: 79.9%
+-   Total shots given: 46,016,453
+-   Shots per 100 people: 120.2
+-   Shots reported: 337,363
+-   Inventory: 24.8 days (at avg pace)
+-   Adults w/ 1+ Shots: 80.0%
 
 Source:
 <a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>
 
-Note: Includes some weekend doses
-
 ![](Plots/plot_main.png)
 
-Canada is now up to 45.7 million shots given – which is 86.3% of the
-total 53 million doses available and 91% of the 50 million needed to
+Canada is now up to 46.0 million shots given – which is 83.4% of the
+total 55 million doses available and 92% of the 50 million needed to
 fully vaccinated 75% of eligible people
 
-Over the past 7 days, 2.4 million doses have been delivered to
+Over the past 7 days, 3.4 million doses have been delivered to
 provinces.
 
 ![](Plots/plot_total.png)
 
 Canada’s daily pace:
 
-Our 7-day average pace of administering shots: 380,703/day over the past
-week and 473,255/day the week prior.
+Our 7-day average pace of administering shots: 369,517/day over the past
+week and 463,136/day the week prior.
 
-Canada’s average daily pace is slowing. We’re now 30% below our June 30
+Canada’s average daily pace is slowing. We’re now 32% below our June 30
 peak average of 542,779.
 
 ![](Plots/pace_national.png)
