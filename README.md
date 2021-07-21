@@ -7,36 +7,36 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-07-20 18:00:02 MDT.
+The information below was last updated at 2021-07-21 16:17:25 MDT.
 
-COVID vaccination update for July 20, 2021 (reports as of 8 PM ET):
+COVID vaccination update for July 21, 2021 (reports as of 6 PM ET):
 
--   Total shots given: 46,016,453
--   Shots per 100 people: 120.2
--   Shots reported: 337,363
--   Inventory: 24.8 days (at avg pace)
--   Adults w/ 1+ Shots: 80.0%
+-   Total shots given: 46,402,153
+-   Shots per 100 people: 121.2
+-   Shots reported: 385,700
+-   Inventory: 24.1 days (at avg pace)
+-   Adults w/ 1+ Shots: 80.1%
 
 Source:
 <a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>
 
 ![](Plots/plot_main.png)
 
-Canada is now up to 46.0 million shots given – which is 83.4% of the
-total 55 million doses available and 92% of the 50 million needed to
+Canada is now up to 46.4 million shots given – which is 84.1% of the
+total 55 million doses available and 93% of the 50 million needed to
 fully vaccinated 75% of eligible people
 
-Over the past 7 days, 3.4 million doses have been delivered to
+Over the past 7 days, 3.2 million doses have been delivered to
 provinces.
 
 ![](Plots/plot_total.png)
 
 Canada’s daily pace:
 
-Our 7-day average pace of administering shots: 369,517/day over the past
-week and 463,136/day the week prior.
+Our 7-day average pace of administering shots: 363,645/day over the past
+week and 452,139/day the week prior.
 
-Canada’s average daily pace is slowing. We’re now 32% below our June 30
+Canada’s average daily pace is slowing. We’re now 33% below our June 30
 peak average of 542,779.
 
 ![](Plots/pace_national.png)
