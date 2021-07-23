@@ -7,7 +7,7 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-07-23 17:04:27 MDT.
+The information below was last updated at 2021-07-23 17:22:29 MDT.
 
 COVID vaccination update for July 23, 2021 (reports as of 7 PM ET):
 
@@ -31,13 +31,13 @@ provinces.
 
 ![](Plots/plot_total.png)
 
-Canada’s daily pace:
+Our 7-day average pace of giving shots: 339,539/day over the past week
+and 409,620/day the week prior.
 
-Our 7-day average pace of administering shots: 339,539/day over the past
-week and 409,620/day the week prior.
+Canada’s pace is slowing. We’re now 37% below our June 30 peak average
+of 542,779.
 
-Canada’s average daily pace is slowing. We’re now 37% below our June 30
-peak average of 542,779.
+On pace for 75%+ age 12+ fully vaxxed by August 8
 
 ![](Plots/pace_national.png)
 
