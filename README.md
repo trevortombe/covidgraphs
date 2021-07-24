@@ -7,9 +7,9 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-07-23 17:53:58 MDT.
+The information below was last updated at 2021-07-23 20:03:04 MDT.
 
-COVID vaccination update for July 23, 2021 (reports as of 8 PM ET):
+COVID vaccination update for July 23, 2021 (reports as of 1 PM ET):
 
 -   Total shots given: 47,140,311
 -   Shots per 100 people: 123.2
@@ -23,11 +23,11 @@ Source:
 ![](Plots/plot_main.png)
 
 Canada is now up to 47.1 million shots given – which is 85.4% of the
-total 55 million doses available and 94% of the 50 million needed to
-fully vaccinated 75% of eligible people
+total 55.2 million doses available. That means there’s 8.1 million shots
+waiting for arms!
 
-Over the past 7 days, 2.3 million doses have been delivered to
-provinces.
+Information on how to book your shot and help end this pandemic:
+<a href="https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/vaccines/how-vaccinated.html#a1" class="uri">https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/vaccines/how-vaccinated.html#a1</a>
 
 ![](Plots/plot_total.png)
 
