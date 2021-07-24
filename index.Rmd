@@ -25,7 +25,16 @@
 
 ![](Plots/plot_total.png)
 
-`r third_tweet`
+`r paste0("Our 7-day average pace of giving shots: ",
+                    weekly_average,"/day over the past week and ",weekly_average_2,
+                    "/day the week prior.",
+                    "Canada's pace has slowed recently. We're now ",
+                    percent(abs(avg_pace$relative_pace))," ",
+                    ifelse(avg_pace$relative_pace<0,"below","above")," our ",
+                    gsub(" 0"," ",format(avg_pace$peak_date,"%B %d"))," peak average of ",
+                    comma(avg_pace$peak),".",
+                    "Though slower than previously, we are currently on pace for 75%+ of those aged 12+ to be fully vaccinated by ",
+                    gsub(" 0"," ",format(today+filter(projection_logistic,date==today)$to75full,"%B %d")))`
 
 ![](Plots/pace_national2.png)
 
