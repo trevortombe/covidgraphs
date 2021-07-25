@@ -11,7 +11,7 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-07-24 20:04:22 MDT. For
+The information below was last updated at 2021-07-24 21:23:08 MDT. For
 regular progress bar updates, follow
 <a href="https://twitter.com/CDNVaccineCount" class="uri">@CDNVaccineCount</a>
 on twitter. Note: I use the [Statistics Canada real-time population
@@ -19,17 +19,17 @@ estimates](https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2018005-eng.htm)
 as the basis for most of shares reported on this site. Other sources may
 differ for this reason.
 
-COVID vaccination update for July 24, 2021 (reports as of 1 PM ET):
+COVID vaccination update for July 24, 2021 (reports as of 11 PM ET):
 
--   Shots reported today: 235,581 (89% 2nd doses)
--   Total shots given: 47,375,892
+-   Shots reported today: 247,861 (88% 2nd doses)
+-   Total shots given: 47,388,172
 -   Age 12+ w/ 1+ Shots: 80.0%
 -   Age 18+ w/ 1+ Shots: 80.5% (est)
 -   Shots per 100 people: 123.8
--   People fully vaccinated: 20,644,462
+-   People fully vaccinated: 20,654,519
 -   Doses distributed: 55,226,738
 -   Share of distributed doses administered: 85.8%
--   Inventory: 23.4 days (at avg pace)
+-   Inventory: 23.2 days (at avg pace)
 
 Source:
 <a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>
@@ -43,7 +43,7 @@ Note: Weekend updates are incomplete
 
 ![](Plots/plot_total.png)
 
-Our 7-day average pace of giving shots: 335,481/day over the past week
+Our 7-day average pace of giving shots: 337,236/day over the past week
 and 400,513/day the week prior.Canada’s pace has slowed recently. We’re
 now 38% below our June 30 peak average of 542,779.Though slower than
 previously, we are currently on pace for 75%+ of those aged 12+ to be
