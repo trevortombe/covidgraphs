@@ -7,25 +7,25 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-07-25 21:21:34 MDT.
+The information below was last updated at 2021-07-26 17:19:42 MDT.
 
-COVID vaccination update for July 25, 2021 (reports as of 11 PM ET):
+COVID vaccination update for July 26, 2021 (reports as of 7 PM ET):
 
--   Total shots given: 47,585,222
--   Shots per 100 people: 124.3
--   Shots reported: 197,050
--   Inventory: 22.9 days (at avg pace)
--   Adults w/ 1+ Shots: 80.6%
+-   Total shots given: 47,964,723
+-   Shots per 100 people: 125.3
+-   Shots reported \*: 379,501
+-   Inventory: 25 days (at avg pace)
+-   Adults w/ 1+ Shots: 80.7%
 
 Source:
 <a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>
 
-Note: Weekend updates are incomplete
+Note: Includes some weekend doses
 
 ![](Plots/plot_main.png)
 
-Canada is now up to 47.6 million shots given – which is 86.2% of the
-total 55.2 million doses available. That means there’s 7.6 million shots
+Canada is now up to 48.0 million shots given – which is 85.5% of the
+total 56.1 million doses available. That means there’s 8.2 million shots
 waiting for arms!
 
 Information on how to book your shot and help end this pandemic:
@@ -33,10 +33,10 @@ Information on how to book your shot and help end this pandemic:
 
 ![](Plots/plot_total.png)
 
-Our 7-day average pace of giving shots: 333,227/day over the past week
-and 391,856/day the week prior.
+Our 7-day average pace of giving shots: 326,519/day over the past week
+and 380,703/day the week prior.
 
-Canada’s pace is slowing. We’re now 39% below our June 30 peak average
+Canada’s pace is slowing. We’re now 40% below our June 30 peak average
 of 542,779.
 
 On pace for 75%+ age 12+ fully vaxxed by August 9
