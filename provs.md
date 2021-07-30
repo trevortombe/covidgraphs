@@ -30,9 +30,9 @@ Across all ages, I estimate how much lower/higher each province's 12+ vaccinatio
 
 ![](Plots/plot_gapmap.png)
 
-#The above data comes with a long lag. Here are the latest experimental estimates projected forward from PHAC's delayed data.
+The above data comes with a long lag. Here are the latest experimental estimates projected forward from PHAC's delayed data.
 
-#![](Plots/plot_prov1839_est.png)
+![](Plots/plot_prov1839_est.png)
 
 It's worth noting that some provinces are younger than others, which will tend to shrink their 12+ share with a shot. But this effect is minor. To illustrate, I construct what the provincial 12+ share would be using each province's age-specific vaccination rates averaged at national population shares.
 
