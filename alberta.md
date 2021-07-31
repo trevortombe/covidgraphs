@@ -14,6 +14,8 @@ subtitle: Various Visuals
 
 ![](Plots/plot_effective_alberta.png)
 
+![](Plots/plot_alberta_compare.png)
+
 ![](Plots/plot_vax_cases_alberta.png)
 
 ---
