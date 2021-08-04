@@ -11,7 +11,7 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-08-03 17:13:41 MDT. For
+The information below was last updated at 2021-08-03 19:58:48 MDT. For
 regular progress bar updates, follow
 <a href="https://twitter.com/CDNVaccineCount" class="uri">@CDNVaccineCount</a>
 on twitter. Note: I use the [Statistics Canada real-time population
@@ -19,7 +19,7 @@ estimates](https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2018005-eng.htm)
 as the basis for most of shares reported on this site. Other sources may
 differ for this reason.
 
-COVID vaccination update for August 3, 2021 (reports as of 7 PM ET):
+COVID vaccination update for August 3, 2021 (reports as of 1 PM ET):
 
 -   Shots reported today: 307,400 (86% 2nd doses)
 -   Total shots given: 49,762,425
@@ -43,7 +43,7 @@ Source:
 
 Our 7-day average pace of giving shots: 215,346/day over the past week
 and 319,793/day the week prior.Canada’s pace has slowed recently. We’re
-now 60% below our June 30 peak average of 542,779.Though slower than
+now 60% below our June 30 peak average of 542,779. Though slower than
 previously, we are currently on pace for 75%+ of those aged 12+ to be
 fully vaccinated by August 16
 

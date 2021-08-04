@@ -32,7 +32,7 @@
                     percent(abs(avg_pace$relative_pace))," ",
                     ifelse(avg_pace$relative_pace<0,"below","above")," our ",
                     gsub(" 0"," ",format(avg_pace$peak_date,"%B %d"))," peak average of ",
-                    comma(avg_pace$peak),".",
+                    comma(avg_pace$peak),". ",
                     "Though slower than previously, we are currently on pace for 75%+ of those aged 12+ to be fully vaccinated by ",
                     gsub(" 0"," ",format(today+filter(projection_logistic,date==today)$to75full,"%B %d")))`
 
