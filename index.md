@@ -11,7 +11,7 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-08-04 17:14:52 MDT. For
+The information below was last updated at 2021-08-04 19:57:26 MDT. For
 regular progress bar updates, follow
 <a href="https://twitter.com/CDNVaccineCount" class="uri">@CDNVaccineCount</a>
 on twitter. Note: I use the [Statistics Canada real-time population
@@ -19,7 +19,7 @@ estimates](https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2018005-eng.htm)
 as the basis for most of shares reported on this site. Other sources may
 differ for this reason.
 
-COVID vaccination update for August 4, 2021 (reports as of 7 PM ET):
+COVID vaccination update for August 4, 2021 (reports as of 1 PM ET):
 
 -   Shots reported today: 158,119 (81% 2nd doses)
 -   Total shots given: 49,920,544
@@ -27,9 +27,9 @@ COVID vaccination update for August 4, 2021 (reports as of 7 PM ET):
 -   Age 18+ w/ 1+ Shots: 81.3% (est)
 -   Shots per 100 people: 130.4
 -   People fully vaccinated: 22,832,917
--   Doses distributed: 59,771,880
--   Share of distributed doses administered: 83.5%
--   Inventory: 49.6 days (at avg pace)
+-   Doses distributed: 59,980,090
+-   Share of distributed doses administered: 83.2%
+-   Inventory: 50.6 days (at avg pace)
 
 Source:
 <a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>
