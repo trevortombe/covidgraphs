@@ -7,14 +7,14 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-08-05 17:59:26 MDT.
+The information below was last updated at 2021-08-05 19:59:20 MDT.
 
-COVID vaccination update for August 5, 2021 (reports as of 8 PM ET):
+COVID vaccination update for August 5, 2021 (reports as of 1 PM ET):
 
 -   Total shots given: 50,114,821
 -   Shots per 100 people: 130.9
 -   Shots reported: 184,035
--   Inventory: 52.5 days (at avg pace)
+-   Inventory: 52.9 days (at avg pace)
 -   Adults w/ 1+ Shots: 81.4%
 
 Source:
@@ -22,8 +22,8 @@ Source:
 
 ![](Plots/plot_main.png)
 
-Canada is now up to 50.1 million shots given – which is 83.6% of the
-total 60.0 million doses available. That means there’s 9.9 million shots
+Canada is now up to 50.1 million shots given – which is 83.5% of the
+total 60.1 million doses available. That means there’s 9.9 million shots
 waiting for arms!
 
 Information on how to book your shot and help end this pandemic:
