@@ -17,7 +17,7 @@ navbar-links:
     - Comparisons: "provs"
     #- Projections: "prov_proj"
     - Pop Coverage: "prov_effective"
-    - Age Detail: "prov_age"
+    #- Age Detail: "prov_age"
     - Alberta: "alberta"
     - Ontario: "ontario"
   Comparisons:
