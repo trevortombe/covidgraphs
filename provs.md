@@ -4,11 +4,10 @@ title: Provinces
 subtitle: Cross-Canada Comparison
 ---
 
+In Canada, vaccine doses are procured by the federal government and distributed to provinces for administration. Provinces set their own policies around who is eligible, length between first and second shots, and so on. To compare each province's vaccination rates, the following plots illustrate several relevant metrics.
+
 ![](Plots/plot_12plus_atleastone.png)
 ![](Plots/plot_12plus_full.png)
-
-In Canada, vaccine doses are procured by the federal government and distributed to provinces for administration. Provinces set their own policies around who is eligible, length between first and second shots, and so on. To compare each province's vaccination rates, the plot below illustrates the share of each province's population with at least one dose over time and relative to the national average.
-
 ![](Plots/prov_relative.png)
 
 But while the above matters for vaccination coverage, it may not full reflect the performance of getting shots into arms if more second doses are administered relative to first doses. 
