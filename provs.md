@@ -28,11 +28,7 @@ Differences across young people is particularly important.
 
 ![](Plots/plot_prov1839.png)
 
-Across all ages, I estimate how much lower/higher each province's 12+ vaccination rate is compared to what it would be if all age categories equaled the rest of Canada.
-
-![](Plots/plot_gapmap.png)
-
-The above data comes with a long lag. Here are the latest experimental estimates projected forward from PHAC's delayed data.
+The above data comes with a long lag. Here are the latest estimate projected forward from PHAC's delayed data.
 
 ![](Plots/plot_prov1839_est.png)
 
