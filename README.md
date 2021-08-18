@@ -7,14 +7,14 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-08-17 19:55:51 MDT.
+The information below was last updated at 2021-08-17 21:16:36 MDT.
 
-COVID vaccination update for August 17, 2021 (reports as of 1 PM ET):
+COVID vaccination update for August 17, 2021 (reports as of 11 PM ET):
 
--   Total shots given: 51,788,041
+-   Total shots given: 51,810,476
 -   Shots per 100 people: 135.3
--   Shots reported: 116,322
--   Inventory: 87 days (at avg pace)
+-   Shots reported: 138,757
+-   Inventory: 84.8 days (at avg pace)
 -   Adults w/ 1+ Shots: 82.2%
 
 Source:
@@ -22,8 +22,8 @@ Source:
 
 ![](Plots/plot_main.png)
 
-Canada is now up to 51.8 million shots given – which is 81.6% of the
-total 63.4 million doses available. That means there’s 11.7 million
+Canada is now up to 51.8 million shots given – which is 81.7% of the
+total 63.4 million doses available. That means there’s 11.6 million
 shots waiting for arms!
 
 Information on how to book your shot and help end this pandemic:
@@ -31,14 +31,14 @@ Information on how to book your shot and help end this pandemic:
 
 ![](Plots/plot_total.png)
 
-Our 7-day average pace of giving shots: 133,953/day over the past week
+Our 7-day average pace of giving shots: 137,158/day over the past week
 and 155,420/day the week prior.
 
 We’re now 75% below our June 30 peak average of 542,779.
 
 On pace for 75%+ age 12+ fully vaxxed by August 24
 
-There are now 11.7 million doses in inventory waiting for arms
+There are now 11.6 million doses in inventory waiting for arms
 
 ![](Plots/pace_national.png)
 
