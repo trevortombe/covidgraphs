@@ -11,7 +11,7 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-08-19 17:18:04 MDT. For
+The information below was last updated at 2021-08-19 18:43:35 MDT. For
 regular progress bar updates, follow
 <a href="https://twitter.com/CDNVaccineCount" class="uri">@CDNVaccineCount</a>
 on twitter. Note: I use the [Statistics Canada real-time population
@@ -19,26 +19,26 @@ estimates](https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2018005-eng.htm)
 as the basis for most of shares reported on this site. Other sources may
 differ for this reason.
 
-COVID vaccination update for August 19, 2021 (reports as of 7 PM ET):
+COVID vaccination update for August 19, 2021 (reports as of 9 PM ET):
 
--   Shots reported today: 97,176 (72% 2nd doses)
--   Total shots given: 52,033,366
+-   Shots reported today: 112,789 (72% 2nd doses)
+-   Total shots given: 52,048,979
 -   Age 12+ w/ 1+ Shots: 82.3%
 -   Age 18+ w/ 1+ Shots: 82.3% (est)
 -   Shots per 100 people: 135.9
--   People fully vaccinated: 24,510,004
--   Doses distributed: 63,478,658
+-   People fully vaccinated: 24,521,275
+-   Doses distributed: 63,479,258
 -   Share of distributed doses administered: 82.0%
--   Inventory: 89.9 days (at avg pace)
+-   Inventory: 88.3 days (at avg pace)
 
 Source:
 <a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>
 
 ![](Plots/plot_total.png)
 
-Our 7-day average pace of giving shots: 127,260/day over the past week
+Our 7-day average pace of giving shots: 129,491/day over the past week
 and 145,900/day the week prior.Canada’s pace has slowed recently. We’re
-now 77% below our June 30 peak average of 542,779. Though slower than
+now 76% below our June 30 peak average of 542,779. Though slower than
 previously, we are currently on pace for 75%+ of those aged 12+ to be
 fully vaccinated by August 25
 
