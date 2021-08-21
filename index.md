@@ -11,7 +11,7 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-08-20 17:15:23 MDT. For
+The information below was last updated at 2021-08-20 18:43:30 MDT. For
 regular progress bar updates, follow
 <a href="https://twitter.com/CDNVaccineCount" class="uri">@CDNVaccineCount</a>
 on twitter. Note: I use the [Statistics Canada real-time population
@@ -19,24 +19,24 @@ estimates](https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2018005-eng.htm)
 as the basis for most of shares reported on this site. Other sources may
 differ for this reason.
 
-COVID vaccination update for August 20, 2021 (reports as of 7 PM ET):
+COVID vaccination update for August 20, 2021 (reports as of 9 PM ET):
 
--   Shots reported today: 109,086 (70% 2nd doses)
--   Total shots given: 52,183,856
+-   Shots reported today: 128,507 (71% 2nd doses)
+-   Total shots given: 52,203,277
 -   Age 12+ w/ 1+ Shots: 82.4%
 -   Age 18+ w/ 1+ Shots: 82.5% (est)
 -   Shots per 100 people: 136.3
--   People fully vaccinated: 24,617,646
+-   People fully vaccinated: 24,632,227
 -   Doses distributed: 63,479,258
 -   Share of distributed doses administered: 82.2%
--   Inventory: 88.6 days (at avg pace)
+-   Inventory: 86.5 days (at avg pace)
 
 Source:
 <a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>
 
 ![](Plots/plot_total.png)
 
-Our 7-day average pace of giving shots: 127,553/day over the past week
+Our 7-day average pace of giving shots: 130,328/day over the past week
 and 141,949/day the week prior.Canada’s pace has slowed recently. We’re
 now 76% below our June 30 peak average of 542,779. Though slower than
 previously, we are currently on pace for 75%+ of those aged 12+ to be
