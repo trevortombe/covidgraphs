@@ -7,22 +7,24 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-08-27 21:15:45 MDT.
+The information below was last updated at 2021-08-28 17:15:10 MDT.
 
-COVID vaccination update for August 27, 2021 (reports as of 11 PM ET):
+COVID vaccination update for August 28, 2021 (reports as of 7 PM ET):
 
--   Total shots given: 52,973,547
--   Shots per 100 people: 138.3
--   Shots reported: 114,589
--   Inventory: 95.6 days (at avg pace)
--   Adults w/ 1+ Shots: 83.0%
+-   Total shots given: 53,017,261
+-   Shots per 100 people: 138.5
+-   Shots reported: 40,387
+-   Inventory: 102.7 days (at avg pace)
+-   Adults w/ 1+ Shots: 83.1%
 
 Source:
 <a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>
 
+Note: Weekend updates are incomplete
+
 ![](Plots/plot_main.png)
 
-Canada is now up to 53.0 million shots given – which is 83.4% of the
+Canada is now up to 53.0 million shots given – which is 83.5% of the
 total 63.5 million doses available. That means there’s 10.5 million
 shots waiting for arms!
 
@@ -31,12 +33,12 @@ Information on how to book your shot and help end this pandemic:
 
 ![](Plots/plot_total.png)
 
-Our 7-day average pace of giving shots: 110,039/day over the past week
-and 130,328/day the week prior.
+Our 7-day average pace of giving shots: 101,942/day over the past week
+and 128,770/day the week prior.
 
-We’re now 80% below our June 30 peak average of 542,779.
+We’re now 81% below our June 30 peak average of 542,779.
 
-On pace for 75%+ age 12+ fully vaxxed by August 27
+On pace for 75%+ age 12+ fully vaxxed by August 28
 
 There are now 10.5 million doses in inventory waiting for arms
 
