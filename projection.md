@@ -12,8 +12,3 @@ Projecting forward, the average doses administered per day is fairly stable. But
 
 ![](Plots/pace_national_projection_logistic3.png)
 
----
-
-Can the pace of vaccine administration be maintained? Here is prior vaccine deliveries to provinces combined with the latest schedule from the federal government. 
-
-![](Plots/pace_national_doses.png)
