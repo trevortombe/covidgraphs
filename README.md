@@ -7,14 +7,14 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-08-30 17:15:30 MDT.
+The information below was last updated at 2021-08-30 18:46:06 MDT.
 
-COVID vaccination update for August 30, 2021 (reports as of 7 PM ET):
+COVID vaccination update for August 30, 2021 (reports as of 9 PM ET):
 
--   Total shots given: 53,212,799
--   Shots per 100 people: 139.0
--   Shots reported \*: 84,197
--   Inventory: 102 days (at avg pace)
+-   Total shots given: 53,257,191
+-   Shots per 100 people: 139.1
+-   Shots reported \*: 132,560
+-   Inventory: 95.5 days (at avg pace)
 -   Adults w/ 1+ Shots: 83.3%
 
 Source:
@@ -24,8 +24,8 @@ Note: Includes some weekend doses
 
 ![](Plots/plot_main.png)
 
-Canada is now up to 53.2 million shots given – which is 83.8% of the
-total 63.5 million doses available. That means there’s 10.3 million
+Canada is now up to 53.3 million shots given – which is 83.9% of the
+total 63.5 million doses available. That means there’s 10.2 million
 shots waiting for arms!
 
 Information on how to book your shot and help end this pandemic:
@@ -33,14 +33,14 @@ Information on how to book your shot and help end this pandemic:
 
 ![](Plots/plot_total.png)
 
-Our 7-day average pace of giving shots: 100,799/day over the past week
+Our 7-day average pace of giving shots: 107,141/day over the past week
 and 119,355/day the week prior.
 
-We’re now 81% below our June 30 peak average of 542,779.
+We’re now 80% below our June 30 peak average of 542,779.
 
 On pace for 75%+ age 12+ fully vaxxed by August 30
 
-There are now 10.3 million doses in inventory waiting for arms
+There are now 10.2 million doses in inventory waiting for arms
 
 ![](Plots/pace_national.png)
 
