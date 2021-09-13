@@ -11,7 +11,7 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-09-13 10:07:59 MDT. For
+The information below was last updated at 2021-09-13 17:15:01 MDT. For
 regular progress bar updates, follow
 <a href="https://twitter.com/CDNVaccineCount" class="uri">@CDNVaccineCount</a>
 on twitter. Note: I use the [Statistics Canada real-time population
@@ -21,15 +21,15 @@ differ for this reason.
 
 COVID vaccination update for September 13, 2021:
 
--   Shots reported today \*: 32,417 (60% 2nd doses)
--   Total shots given: 54,432,000
--   Age 12+ w/ 1+ Shots: 84.8%
+-   Shots reported today \*: 73,645 (57% 2nd doses)
+-   Total shots given: 54,473,228
+-   Age 12+ w/ 1+ Shots: 84.9%
 -   Age 18+ w/ 1+ Shots: 84.6% (est)
--   Shots per 100 people: 142.2
--   People fully vaccinated: 26,055,577
+-   Shots per 100 people: 142.3
+-   People fully vaccinated: 26,078,153
 -   Doses distributed: 63,728,994
--   Share of distributed doses administered: 85.4%
--   Inventory: 112 days (at avg pace)
+-   Share of distributed doses administered: 85.5%
+-   Inventory: 104.1 days (at avg pace)
 
 Source:
 <a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>
@@ -38,9 +38,9 @@ Note: Includes some weekend doses
 
 ![](Plots/plot_total.png)
 
-Our 7-day average pace of giving shots: 82,986/day over the past week
+Our 7-day average pace of giving shots: 88,876/day over the past week
 and 84,844/day the week prior.Canada’s pace has slowed recently. We’re
-now 85% below our June 30 peak average of 542,779. Though slower than
+now 84% below our June 30 peak average of 542,779. Though slower than
 previously, we are currently on pace for 75%+ of those aged 12+ to be
 fully vaccinated by September 13
 
