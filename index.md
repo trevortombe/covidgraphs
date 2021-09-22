@@ -11,7 +11,7 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-09-21 17:15:08 MDT. For
+The information below was last updated at 2021-09-21 18:47:43 MDT. For
 regular progress bar updates, follow
 <a href="https://twitter.com/CDNVaccineCount" class="uri">@CDNVaccineCount</a>
 on twitter. Note: I use the [Statistics Canada real-time population
@@ -21,26 +21,26 @@ differ for this reason.
 
 COVID vaccination update for September 21, 2021:
 
--   Shots reported today: 48,723 (50% 2nd doses)
--   Total shots given: 55,255,982
--   Age 12+ w/ 1+ Shots: 86.0%
--   Age 18+ w/ 1+ Shots: 85.7% (est)
--   Shots per 100 people: 144.3
--   People fully vaccinated: 26,475,718
+-   Shots reported today: 85,028 (51% 2nd doses)
+-   Total shots given: 55,292,287
+-   Age 12+ w/ 1+ Shots: 86.1%
+-   Age 18+ w/ 1+ Shots: 85.8% (est)
+-   Shots per 100 people: 144.4
+-   People fully vaccinated: 26,494,341
 -   Doses distributed: 63,900,844
 -   Share of distributed doses administered: 86.5%
--   Inventory: 90.5 days (at avg pace)
+-   Inventory: 85.4 days (at avg pace)
 
 Source:
 <a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>
 
 ![](Plots/plot_total.png)
 
-Our 7-day average pace of giving shots: 95,565/day over the past week
+Our 7-day average pace of giving shots: 100,752/day over the past week
 and 88,247/day the week prior.Canada’s pace has slowed recently. We’re
-now 82% below our June 30 peak average of 542,779. Though slower than
+now 81% below our June 30 peak average of 542,779. Though slower than
 previously, we are currently on pace for 75%+ of those aged 12+ to be
-fully vaccinated by October 2
+fully vaccinated by October 1
 
 ![](Plots/pace_national2.png)
 
