@@ -11,7 +11,7 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-09-24 17:14:57 MDT. For
+The information below was last updated at 2021-09-24 18:44:41 MDT. For
 regular progress bar updates, follow
 <a href="https://twitter.com/CDNVaccineCount" class="uri">@CDNVaccineCount</a>
 on twitter. Note: I use the [Statistics Canada real-time population
@@ -21,24 +21,24 @@ differ for this reason.
 
 COVID vaccination update for September 24, 2021:
 
--   Shots reported today: 145,000 (38% 2nd doses)
--   Total shots given: 55,672,774
+-   Shots reported today: 159,680 (39% 2nd doses)
+-   Total shots given: 55,687,454
 -   Age 12+ w/ 1+ Shots: 86.7%
--   Age 18+ w/ 1+ Shots: 86.3% (est)
+-   Age 18+ w/ 1+ Shots: 86.4% (est)
 -   Shots per 100 people: 145.4
--   People fully vaccinated: 26,672,900
+-   People fully vaccinated: 26,680,758
 -   Doses distributed: 63,906,444
 -   Share of distributed doses administered: 87.1%
--   Inventory: 78.1 days (at avg pace)
+-   Inventory: 76.4 days (at avg pace)
 
 Source:
 <a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>
 
 ![](Plots/plot_total.png)
 
-Our 7-day average pace of giving shots: 105,489/day over the past week
+Our 7-day average pace of giving shots: 107,586/day over the past week
 and 95,642/day the week prior.Canada’s pace has slowed recently. We’re
-now 81% below our June 30 peak average of 542,779. Though slower than
+now 80% below our June 30 peak average of 542,779. Though slower than
 previously, we are currently on pace for 75%+ of those aged 12+ to be
 fully vaccinated by October 21
 
