@@ -7,26 +7,25 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-09-26 21:15:43 MDT.
+The information below was last updated at 2021-09-27 17:14:56 MDT.
 
-COVID vaccination update for September 26, 2021 (reports as of 11 PM
-ET):
+COVID vaccination update for September 27, 2021 (reports as of 7 PM ET):
 
--   Total shots given: 55,810,920
--   Shots per 100 people: 145.8
--   Shots reported: 41,538
--   Inventory: 75.5 days (at avg pace)
--   Adults w/ 1+ Shots: 86.5%
+-   Total shots given: 55,960,704
+-   Shots per 100 people: 146.1
+-   Shots reported \*: 122,978
+-   Inventory: 73.8 days (at avg pace)
+-   Adults w/ 1+ Shots: 86.7%
 
 Source:
 <a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>
 
-Note: Weekend updates are incomplete
+Note: Includes some weekend doses
 
 ![](Plots/plot_main.png)
 
-Canada is now up to 55.8 million shots given – which is 87.3% of the
-total 63.9 million doses available. That means there’s 8.1 million shots
+Canada is now up to 56.0 million shots given – which is 87.6% of the
+total 63.9 million doses available. That means there’s 7.9 million shots
 waiting for arms!
 
 Information on how to book your shot and help end this pandemic:
@@ -34,14 +33,14 @@ Information on how to book your shot and help end this pandemic:
 
 ![](Plots/plot_total.png)
 
-Our 7-day average pace of giving shots: 107,223/day over the past week
-and 94,397/day the week prior.
+Our 7-day average pace of giving shots: 107,635/day over the past week
+and 99,679/day the week prior.
 
 We’re now 80% below our June 30 peak average of 542,779.
 
-On pace for 75%+ age 12+ fully vaxxed by October 26
+On pace for 75%+ age 12+ fully vaxxed by November 2
 
-There are now 8.1 million doses in inventory waiting for arms
+There are now 7.9 million doses in inventory waiting for arms
 
 ![](Plots/pace_national.png)
 
