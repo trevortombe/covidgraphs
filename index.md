@@ -11,7 +11,7 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-09-28 17:14:58 MDT. For
+The information below was last updated at 2021-09-28 19:53:43 MDT. For
 regular progress bar updates, follow
 <a href="https://twitter.com/CDNVaccineCount" class="uri">@CDNVaccineCount</a>
 on twitter. Note: I use the [Statistics Canada real-time population
@@ -21,26 +21,26 @@ differ for this reason.
 
 COVID vaccination update for September 28, 2021:
 
--   Shots reported today: 36,677 (59% 2nd doses)
--   Total shots given: 56,002,114
--   Age 12+ w/ 1+ Shots: 87.1%
--   Age 18+ w/ 1+ Shots: 86.7% (est)
--   Shots per 100 people: 146.3
--   People fully vaccinated: 26,859,873
+-   Shots reported today: 78,854 (53% 2nd doses)
+-   Total shots given: 56,044,291
+-   Age 12+ w/ 1+ Shots: 87.2%
+-   Age 18+ w/ 1+ Shots: 86.8% (est)
+-   Shots per 100 people: 146.4
+-   People fully vaccinated: 26,880,236
 -   Doses distributed: 63,906,444
--   Share of distributed doses administered: 87.6%
--   Inventory: 79.8 days (at avg pace)
+-   Share of distributed doses administered: 87.7%
+-   Inventory: 74.8 days (at avg pace)
 
 Source:
 <a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>
 
 ![](Plots/plot_total.png)
 
-Our 7-day average pace of giving shots: 99,104/day over the past week
+Our 7-day average pace of giving shots: 105,130/day over the past week
 and 103,051/day the week prior.Canada’s pace has slowed recently. We’re
-now 82% below our June 30 peak average of 542,779. Though slower than
+now 81% below our June 30 peak average of 542,779. Though slower than
 previously, we are currently on pace for 75%+ of those aged 12+ to be
-fully vaccinated by November 9
+fully vaccinated by November 6
 
 ![](Plots/pace_national2.png)
 
