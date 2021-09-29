@@ -7,24 +7,23 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-09-28 21:15:46 MDT.
+The information below was last updated at 2021-09-29 17:15:10 MDT.
 
-COVID vaccination update for September 28, 2021 (reports as of 11 PM
-ET):
+COVID vaccination update for September 29, 2021 (reports as of 7 PM ET):
 
--   Total shots given: 56,044,291
--   Shots per 100 people: 146.4
--   Shots reported: 78,854
--   Inventory: 74.8 days (at avg pace)
--   Adults w/ 1+ Shots: 86.8%
+-   Total shots given: 56,120,860
+-   Shots per 100 people: 146.0
+-   Shots reported: 76,569
+-   Inventory: 76.7 days (at avg pace)
+-   Adults w/ 1+ Shots: 87.1%
 
 Source:
 <a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>
 
 ![](Plots/plot_main.png)
 
-Canada is now up to 56.0 million shots given – which is 87.7% of the
-total 63.9 million doses available. That means there’s 7.9 million shots
+Canada is now up to 56.1 million shots given – which is 87.8% of the
+total 63.9 million doses available. That means there’s 7.8 million shots
 waiting for arms!
 
 Information on how to book your shot and help end this pandemic:
@@ -32,14 +31,14 @@ Information on how to book your shot and help end this pandemic:
 
 ![](Plots/plot_total.png)
 
-Our 7-day average pace of giving shots: 105,130/day over the past week
-and 103,051/day the week prior.
+Our 7-day average pace of giving shots: 101,495/day over the past week
+and 105,089/day the week prior.
 
 We’re now 81% below our June 30 peak average of 542,779.
 
-On pace for 75%+ age 12+ fully vaxxed by November 6
+On pace for 75%+ age 12+ fully vaxxed by October 31
 
-There are now 7.9 million doses in inventory waiting for arms
+There are now 7.8 million doses in inventory waiting for arms
 
 ![](Plots/pace_national.png)
 
