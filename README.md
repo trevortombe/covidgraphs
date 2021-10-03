@@ -7,14 +7,14 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-10-02 21:15:15 MDT.
+The information below was last updated at 2021-10-03 17:15:05 MDT.
 
-COVID vaccination update for October 2, 2021 (reports as of 11 PM ET):
+COVID vaccination update for October 3, 2021 (reports as of 7 PM ET):
 
--   Total shots given: 56,399,299
--   Shots per 100 people: 146.7
--   Shots reported: 58,484
--   Inventory: 88.3 days (at avg pace)
+-   Total shots given: 56,443,422
+-   Shots per 100 people: 146.9
+-   Shots reported: 44,123
+-   Inventory: 91.3 days (at avg pace)
 -   Adults w/ 1+ Shots: 87.5%
 
 Source:
@@ -33,12 +33,12 @@ Information on how to book your shot and help end this pandemic:
 
 ![](Plots/plot_total.png)
 
-Our 7-day average pace of giving shots: 89,988/day over the past week
-and 109,369/day the week prior.
+Our 7-day average pace of giving shots: 86,528/day over the past week
+and 111,052/day the week prior.
 
-We’re now 83% below our June 30 peak average of 542,779.
+We’re now 84% below our June 30 peak average of 542,779.
 
-On pace for 75%+ age 12+ fully vaxxed by November 25
+On pace for 75%+ age 12+ fully vaxxed by November 30
 
 There are now 7.9 million doses in inventory waiting for arms
 
