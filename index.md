@@ -11,7 +11,7 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-10-06 21:15:53 MDT. For
+The information below was last updated at 2021-10-07 17:15:03 MDT. For
 regular progress bar updates, follow
 <a href="https://twitter.com/CDNVaccineCount" class="uri">@CDNVaccineCount</a>
 on twitter. Note: I use the [Statistics Canada real-time population
@@ -19,28 +19,28 @@ estimates](https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2018005-eng.htm)
 as the basis for most of shares reported on this site. Other sources may
 differ for this reason.
 
-COVID vaccination update for October 6, 2021:
+COVID vaccination update for October 7, 2021:
 
--   Shots reported today: 88,189 (51% 2nd doses)
--   Total shots given: 56,726,673
--   Age 12+ w/ 1+ Shots: 87.6%
--   Age 18+ w/ 1+ Shots: 87.6% (est)
--   Shots per 100 people: 147.6
--   People fully vaccinated: 27,263,147
+-   Shots reported today: 84,659 (53% 2nd doses)
+-   Total shots given: 56,813,623
+-   Age 12+ w/ 1+ Shots: 87.7%
+-   Age 18+ w/ 1+ Shots: 87.7% (est)
+-   Shots per 100 people: 147.8
+-   People fully vaccinated: 27,308,746
 -   Doses distributed: 64,408,504
--   Share of distributed doses administered: 88.1%
--   Inventory: 92.5 days (at avg pace)
+-   Share of distributed doses administered: 88.2%
+-   Inventory: 92.9 days (at avg pace)
 
 Source:
 <a href="https://covid19tracker.ca/vaccinationtracker.html" class="uri">https://covid19tracker.ca/vaccinationtracker.html</a>
 
 ![](Plots/plot_total.png)
 
-Our 7-day average pace of giving shots: 83,067/day over the past week
-and 104,972/day the week prior.Canada’s pace has slowed recently. We’re
+Our 7-day average pace of giving shots: 81,779/day over the past week
+and 101,914/day the week prior.Canada’s pace has slowed recently. We’re
 now 85% below our June 30 peak average of 542,779. Though slower than
 previously, we are currently on pace for 75%+ of those aged 12+ to be
-fully vaccinated by December 19
+fully vaccinated by December 23
 
 ![](Plots/pace_national2.png)
 
