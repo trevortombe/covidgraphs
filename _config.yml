@@ -10,25 +10,25 @@ plugins:
 remote_theme: daattali/beautiful-jekyll
 
 navbar-links:
-  Canada:
-    - Projections: "projection"
-    - Age Detail: "ageplots"
+  #Canada:
+    #- Projections: "projection"
+    #- Age Detail: "ageplots"
   Provinces: 
     - Comparisons: "provs"
     #- Projections: "prov_proj"
-    - Pop Coverage: "prov_effective"
+    #- Pop Coverage: "prov_effective"
     #- Age Detail: "prov_age"
     - Alberta: "alberta"
-    - Ontario: "ontario"
-  Comparisons:
-    - USA: "usa"
-    - OECD: "oecd"
-    - World: "international"
-    - Projections: "int_proj"
-    - Total Doses: "int_proj_total"
-    - Fully Vaxxed: "int_proj_full"
-  Needlessly Fancy: "needless"
-  #COVID Cases: "cases"
+    #- Ontario: "ontario"
+  #Comparisons:
+    #- USA: "usa"
+    #- OECD: "oecd"
+    #- World: "international"
+    #- Projections: "int_proj"
+    #- Total Doses: "int_proj_total"
+    #- Fully Vaxxed: "int_proj_full"
+  #Needlessly Fancy: "needless"
+  COVID Cases: "cases"
   Author's Home: "https://www.trevortombe.com"
 
 # --- Logo --- #

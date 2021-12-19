@@ -28,20 +28,6 @@ Differences across young people is particularly important.
 
 ![](Plots/plot_prov1839.png)
 
-The above data comes with a long lag. Here are the latest estimate projected forward from PHAC's delayed data.
-
-![](Plots/plot_prov1839_est.png)
-
-It's worth noting that some provinces are younger than others, which will tend to shrink their 12+ share with a shot. But this effect is minor. To illustrate, I construct what the provincial 12+ share would be using each province's age-specific vaccination rates averaged at national population shares.
-
-![](Plots/plot_standard_est.png)
-
----
-
-As the vaccination rates in each region increase, it is increasingly important to assess how quickly we are approaching the hesitant population and how quickly the pace of vaccinations will decline. Here's a comparison of vaccination rates versus first dose pace for each province.
-
-![](Plots/pace_decline_provs.png)
-
 ---
 
 A look at the share of deliveries that have been administered over time.

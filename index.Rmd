@@ -1,46 +1,12 @@
 
-![](Plots/plot_main2.png)
+![](Plots/plot_main.png)
 
 **Welcome!** This website provides several visualizations of COVID-19 vaccination progress in Canada based on data collected mainly from [COVID Canada](https://covid19tracker.ca/vaccinationtracker.html) and [Our World in Data](https://ourworldindata.org/covid-vaccinations). The latest federal distribution schedule is [available here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html). The information below was last updated at `r accessed` MDT. For regular progress bar updates, follow <a href="https://twitter.com/CDNVaccineCount" class="uri">@CDNVaccineCount</a> on twitter. Note: I use the [Statistics Canada real-time population estimates](https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2018005-eng.htm) as the basis for most of shares reported on this site. Other sources may differ for this reason.
 
-`r paste0(paste0("COVID vaccination update for ",gsub(" 0"," ",format(accessed,"%B %d, %Y")),":\n\n"),
-                    ifelse(wday(today)==2,paste0("- Shots reported today *: ",new_doses),
-                           paste0("- Shots reported today: ",new_doses)),
-                           " (",percent(filter(first_second_share,date==max(date) & type=="second_share")$val,1)," 2nd doses)",
-                    "\n- Total shots given: ",total_doses,"\n",
-                    "- Age 12+ w/ 1+ Shots: ",percent(filter(plot_multi_bar,type=="any_age12")$label,.1),"\n",
-                    "- Age 18+ w/ 1+ Shots: ",adult_share_experimental," (est)\n",
-                    "- Shots per 100 people: ",number(pop_share*100,.1),"\n",
-                    "- People fully vaccinated: ",comma(latest$full),"\n",
-                    "- Doses distributed: ",comma(latest$dist),"\n",
-                    "- Share of distributed doses administered: ",share_dist_used,"\n",
-                    "- Inventory: ",inventory," days (at avg pace)\n",
-                    #"- Days to 75/20 target: ",round(tamdate$totam),"\n",
-                    "\n\nSource: https://covid19tracker.ca/vaccinationtracker.html",
-                    ifelse(wday(today)==7 | wday(today)==1,"\n\nNote: Weekend updates are incomplete",""),
-                    ifelse(wday(today)==2,"\n\nNote: Includes some weekend doses",""))`
-
 ![](Plots/plot_total.png)
-
-`r paste0("Our 7-day average pace of giving shots: ",
-                    weekly_average,"/day over the past week and ",weekly_average_2,
-                    "/day the week prior.",
-                    "Canada's pace has slowed recently. We're now ",
-                    percent(abs(avg_pace$relative_pace))," ",
-                    ifelse(avg_pace$relative_pace<0,"below","above")," our ",
-                    gsub(" 0"," ",format(avg_pace$peak_date,"%B %d"))," peak average of ",
-                    comma(avg_pace$peak),". ",
-                    "Though slower than previously, we are currently on pace for 75%+ of those aged 12+ to be fully vaccinated by ",
-                    gsub(" 0"," ",format(today+filter(projection_logistic,date==today)$to75full,"%B %d")))`
 
 ![](Plots/pace_national2.png)
 
-And finally, dose counts and the share of a population with a shot is informative and important, but the population-level effective protection this provides is lower. One dose is less effective than two, plus there are lags in the vaccine's effect along with numerous uncertainties (especially where the variants are concerned). Based on a first-dose efficacy of between 40 to 80 percent with a 2-3 week lag and a second dose efficacy of 90 to 95 percent with a 1 to 2 week lag, our current coverage of effective protection is between `r paste0(round(100*filter(plotdata_effective,date==max(date))$low_est),
-                        " to ",round(100*filter(plotdata_effective,date==max(date))$high_est))` percent. The margin of error here is wide, which reflects the high degree of variation in efficacy estimates and uncertainty with new variants. This is meant to provide intuition and rough magnitudes, it does not rigorous public health guidance. Follow your local public health agency's guidelines! 
-
-![](Plots/plot_effective.png)
-
-For a useful summary of the research literature, see [this report from Public Health Ontario](https://www.publichealthontario.ca/-/media/documents/ncov/covid-wwksf/2021/04/wwksf-vaccine-effectiveness.pdf?la=en).
 
 ---
 
