@@ -10,9 +10,9 @@ plugins:
 remote_theme: daattali/beautiful-jekyll
 
 navbar-links:
-  #Canada:
+  Canada:
     #- Projections: "projection"
-    #- Age Detail: "ageplots"
+    - Age Detail: "ageplots"
   Provinces: 
     - Comparisons: "provs"
     #- Projections: "prov_proj"
@@ -20,10 +20,10 @@ navbar-links:
     #- Age Detail: "prov_age"
     - Alberta: "alberta"
     #- Ontario: "ontario"
-  #Comparisons:
+  Comparisons:
     #- USA: "usa"
-    #- OECD: "oecd"
-    #- World: "international"
+    - OECD: "oecd"
+    - World: "international"
     #- Projections: "int_proj"
     #- Total Doses: "int_proj_total"
     #- Fully Vaxxed: "int_proj_full"

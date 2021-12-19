@@ -8,10 +8,6 @@ subtitle: Various Visuals
 
 ![](Plots/pace_AB.png)
 
-![](Plots/pace_national_projection_logistic_ab.png)
-
-![](Plots/plot_effective_alberta.png)
-
 ![](Plots/plot_alberta_compare.png)
 
 ![](Plots/plot_vax_cases_alberta.png)
@@ -22,8 +18,3 @@ In Alberta, there is significant variation across the province in vaccination ra
 
 ![](Plots/AlbertaPED.png)
 
----
-
-Zooming into Calgary (selfishly) for younger individuals reveals encouragingly high vaccination rates, much higher than the overall provincial averages suggest.
-
-![](Plots/plot_yyc.png)
