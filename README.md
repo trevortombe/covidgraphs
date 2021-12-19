@@ -13,7 +13,7 @@ The information below was last updated at 2021-12-18 17:11:03 MDT.
 
 ![](Plots/plot_total.png)
 
-![](Plots/pace_national2.png)
+![](Plots/pace_national.png)
 
 ------------------------------------------------------------------------
 
