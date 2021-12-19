@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ![](Plots/plot_total.png)
 
 
-![](Plots/pace_national.png)
+![](Plots/pace_national2.png)
 
 ---
 
