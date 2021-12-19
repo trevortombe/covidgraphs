@@ -7,13 +7,13 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-12-18 17:11:03 MDT.
+The information below was last updated at 2021-12-18 18:18:05 MDT.
 
 ![](Plots/plot_main.png)
 
 ![](Plots/plot_total.png)
 
-![](Plots/pace_national.png)
+![](Plots/pace_national2.png)
 
 ------------------------------------------------------------------------
 
