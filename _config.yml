@@ -19,7 +19,7 @@ navbar-links:
     #- Pop Coverage: "prov_effective"
     #- Age Detail: "prov_age"
     - Alberta: "alberta"
-    - Ontario: "ontario"
+    # - Ontario: "ontario"
   Comparisons:
     #- USA: "usa"
     - OECD: "oecd"
