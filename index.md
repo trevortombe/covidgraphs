@@ -23,12 +23,6 @@ differ for this reason.
 
 ![](Plots/pace_national2.png)
 
-------------------------------------------------------------------------
-
-As the share of the population with their first dose is growing large,
-provinces the number of second doses will accelerate and the interval
-between jabs shrink. Here’s the latest:
-
 ![](Plots/plot_first_second.png)
 
 Explore other visualizations by clicking on the appropriate menu item at
