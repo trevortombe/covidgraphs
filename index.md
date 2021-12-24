@@ -11,7 +11,7 @@ vaccination progress in Canada based on data collected mainly from
 [Our World in Data](https://ourworldindata.org/covid-vaccinations). The
 latest federal distribution schedule is [available
 here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html).
-The information below was last updated at 2021-12-23 19:09:30 MDT. For
+The information below was last updated at 2021-12-24 10:10:29 MDT. For
 regular progress bar updates, follow
 <a href="https://twitter.com/CDNVaccineCount" class="uri">@CDNVaccineCount</a>
 on twitter. Note: I use the [Statistics Canada real-time population
@@ -22,6 +22,12 @@ differ for this reason.
 ![](Plots/plot_total.png)
 
 ![](Plots/pace_national2.png)
+
+------------------------------------------------------------------------
+
+As the share of the population with their first dose is growing large,
+provinces the number of second doses will accelerate and the interval
+between jabs shrink. Here’s the latest:
 
 ![](Plots/plot_first_second.png)
 
