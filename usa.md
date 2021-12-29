@@ -11,8 +11,6 @@ subtitle: A Canada/US Comparison
 
 This compares the share of each province, territory, and state's population that has received at least one dose as well as the share that is fully vaccinated.
 
-![](Plots/pace_cdn_usa_projection.png)
+![](Plots/COVID_vaccine_map.png)
 
-![](Plots/pace_cdn_usa_projection_doses.png)
-
-![](Plots/pace_cdn_usa_projection_full.png)
+![](Plots/COVID_vaccine_map_full.png)

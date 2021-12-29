@@ -21,7 +21,7 @@ navbar-links:
     - Alberta: "alberta"
     # - Ontario: "ontario"
   Comparisons:
-    #- USA: "usa"
+    - USA: "usa"
     - OECD: "oecd"
     - World: "international"
     #- Projections: "int_proj"
